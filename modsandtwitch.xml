@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModList>
+	<Name>modsandtwitch</Name>
+	<modIds>
+		<li>brrainz.harmony</li>
+		<li>ludeon.rimworld</li>
+		<li>unlimitedhugs.hugslib</li>
+		<li>jecrell.jecstools</li>
+		<li>fluffy.modmanager</li>
+		<li>hodlhodl.toolkitcore</li>
+		<li>hodlhodl.twitchtoolkit</li>
+		<li>krafs.levelup</li>
+		<li>community.psychology.unofficialupdate</li>
+		<li>saucypigeon.realisticplanets</li>
+		<li>oblitus.mylittleplanet</li>
+		<li>sarg.alphabiomes</li>
+		<li>vanillaexpanded.vee</li>
+		<li>unlimitedhugs.allowtool</li>
+		<li>porquenolosdos.colorcodedmoodbar</li>
+		<li>mehni.numbers</li>
+		<li>oblitus.animalslogic</li>
+		<li>carlarc.bettermooddescriptions</li>
+		<li>ben.automaticnightowl</li>
+		<li>sandy.rpgstyleinventory</li>
+		<li>erdelf.humanoidalienraces</li>
+		<li>torann.arimworldofmagic</li>
+		<li>heymyteamrules.beastmantribes</li>
+		<li>sharpedo.kenshiskeletons</li>
+		<li>sharpedo.kenshishek</li>
+		<li>sharpedo.kenshihivers</li>
+		<li>meltup.beautifuloutdoors</li>
+		<li>frozensnowfox.filthvanisheswithrainandtime</li>
+		<li>pinochemicali.skilledstonecutting</li>
+		<li>uuugggg.usebedrolls</li>
+		<li>uuugggg.whatismypurpose</li>
+		<li>uuugggg.smartmedicine</li>
+		<li>uuugggg.replacestuff</li>
+		<li>mlie.lessarbitrarysurgery</li>
+		<li>shotgunfrenzy.prioritytreatment</li>
+		<li>lwm.deepstorage</li>
+		<li>mehni.pickupandhaul</li>
+		<li>neceros.metaldontburn</li>
+		<li>automatic.bionicicons</li>
+		<li>dubwise.dubsbadhygiene</li>
+		<li>kentington.saveourship2</li>
+		<li>mlie.raidersneverdie</li>
+		<li>edb.preparecarefully</li>
+		<li>fluffy.worktab</li>
+		<li>fluffy.relationstab</li>
+		<li>fluffy.animaltab</li>
+		<li>fluffy.blueprints</li>
+		<li>fluffy.pharmacist</li>
+		<li>revolus.whatsmissing</li>
+		<li>fluffy.medicaltab</li>
+		<li>fluffy.researchtree</li>
+		<li>fluffy.fluffybreakdowns</li>
+		<li>ratys.rtfuse</li>
+		<li>catachat.inspirationtweaks</li>
+		<li>kongmd.qee</li>
+		<li>linq.deathrattle</li>
+		<li>proximo.deathrattlecomatose</li>
+		<li>kikohi.cybernetic</li>
+		<li>sharpedo.kenshiapparel</li>
+		<li>mlie.fencesandfloors</li>
+		<li>oskarpotocki.vanillafactionsexpanded.core</li>
+		<li>oskarpotocki.vfe.insectoid</li>
+		<li>vanillaexpanded.vappe</li>
+		<li>vanillaexpanded.varme</li>
+		<li>vanillaexpanded.vcef</li>
+		<li>vanillaexpanded.vfecore</li>
+		<li>vanillaexpanded.vfeart</li>
+		<li>vanillaexpanded.vfefarming</li>
+		<li>vanillaexpanded.vfemedical</li>
+		<li>vanillaexpanded.vfepower</li>
+		<li>vanillaexpanded.vfeproduction</li>
+		<li>vanillaexpanded.vfesecurity</li>
+		<li>vanillaexpanded.vwe</li>
+		<li>vanillaexpanded.vwel</li>
+		<li>sihv.rombones</li>
+		<li>spoonshortage.adogsaidanimalprosthetics</li>
+		<li>bos.milkableanimals</li>
+		<li>sarg.geneticrim</li>
+		<li>sarg.alphaanimals</li>
+		<li>sarg.geneticrimalphaanimals</li>
+		<li>sarg.alphaships</li>
+		<li>smashphil.dropspot</li>
+		<li>roolo.whatthehack</li>
+		<li>orion.hospitality</li>
+		<li>ghxx.techadvancing</li>
+		<li>velc.mineitall</li>
+		<li>peppsen.pmusic</li>
+	</modIds>
+	<modNames>
+		<li>Harmony</li>
+		<li>Core</li>
+		<li>HugsLib</li>
+		<li>JecsTools</li>
+		<li>Mod Manager</li>
+		<li>ToolkitCore</li>
+		<li>Twitch Toolkit</li>
+		<li>Level Up!</li>
+		<li>[1.1] Psychology (unofficial)</li>
+		<li>Realistic Planets - Fan Update</li>
+		<li>My Little Planet</li>
+		<li>Alpha Biomes</li>
+		<li>Vanilla Events Expanded</li>
+		<li>Allow Tool</li>
+		<li>Color Coded Mood Bar</li>
+		<li>Numbers</li>
+		<li>Animals Logic</li>
+		<li>Better Mood Descriptions</li>
+		<li>Automatic NightOwl</li>
+		<li>RPG Style Inventory</li>
+		<li>Humanoid Alien Races 2.0</li>
+		<li>A RimWorld of Magic</li>
+		<li>Beast Man Tribes</li>
+		<li>Kenshi Skeleton Race</li>
+		<li>Kenshi Shek Race</li>
+		<li>Kenshi Hiver Race</li>
+		<li>Beautiful Outdoors</li>
+		<li>[FSF] Filth Vanishes With Rain And Time</li>
+		<li>Skilled Stonecutting</li>
+		<li>Use Bedrolls</li>
+		<li>What Is My Purpose</li>
+		<li>Smart Medicine</li>
+		<li>Replace Stuff</li>
+		<li>Less Arbitrary Surgery (Continued)</li>
+		<li>[SF] Priority treatment 1.1</li>
+		<li>LWM's Deep Storage</li>
+		<li>Pick Up And Haul</li>
+		<li>Metal Don't Burn</li>
+		<li>Bionic icons</li>
+		<li>Dubs Bad Hygiene</li>
+		<li>Save Our Ship 2</li>
+		<li>Raiders Never Die (Continued)</li>
+		<li>EdB Prepare Carefully</li>
+		<li>Work Tab</li>
+		<li>Relations Tab</li>
+		<li>Animal Tab</li>
+		<li>Blueprints</li>
+		<li>Pharmacist</li>
+		<li>What's Missing?</li>
+		<li>Medical Tab</li>
+		<li>Research Tree</li>
+		<li>Fluffy Breakdowns</li>
+		<li>RT Fuse</li>
+		<li>Inspiration Tweaks</li>
+		<li>Questionable Ethics Enhanced</li>
+		<li>Death Rattle Unofficial</li>
+		<li>Death Rattle - Comatose</li>
+		<li>Cybernetic Organism and Neural Network</li>
+		<li>Kenshi Apparel Pack</li>
+		<li>Fences And Floors (Continued)</li>
+		<li>Vanilla Factions Expanded - Core - Now with Faction Discovery!</li>
+		<li>Vanilla Factions Expanded - Insectoids</li>
+		<li>Vanilla Apparel Expanded</li>
+		<li>Vanilla Armour Expanded</li>
+		<li>Vanilla Fishing Expanded</li>
+		<li>Vanilla Furniture Expanded</li>
+		<li>Vanilla Furniture Expanded - Art</li>
+		<li>Vanilla Furniture Expanded - Farming</li>
+		<li>Vanilla Furniture Expanded - Medical Module</li>
+		<li>Vanilla Furniture Expanded - Power</li>
+		<li>Vanilla Furniture Expanded - Production</li>
+		<li>Vanilla Furniture Expanded - Security</li>
+		<li>Vanilla Weapons Expanded</li>
+		<li>Vanilla Weapons Expanded - Laser</li>
+		<li>Rim of Madness - Bones</li>
+		<li>A Dog Said... Animal Prosthetics</li>
+		<li>Bo's Milkable Animals</li>
+		<li>Genetic Rim</li>
+		<li>Alpha Animals</li>
+		<li>GeneticRim Alpha Animals Patch</li>
+		<li>Alpha Ships</li>
+		<li>Trade Ships Drop Spot</li>
+		<li>What the hack?!</li>
+		<li>Hospitality</li>
+		<li>Tech Advancing</li>
+		<li>MineItAll - unofficial</li>
+		<li>P-Music</li>
+	</modNames>
+</ModList>
