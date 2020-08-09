@@ -7166,25 +7166,25 @@
 		"defname": "GR_Boomthread"
 	},
 	{
-		"abr": "chameleonyakwool,desert",
+		"abr": "chameleonyakwooldesert",
 		"price": 4,
 		"category": "Textiles",
 		"defname": "AA_ChameleonYakWoolDesert"
 	},
 	{
-		"abr": "chameleonyakwool,jungle",
+		"abr": "chameleonyakwooljungle",
 		"price": 4,
 		"category": "Textiles",
 		"defname": "AA_ChameleonYakWoolJungle"
 	},
 	{
-		"abr": "chameleonyakwool,temperate",
+		"abr": "chameleonyakwooltemperate",
 		"price": 4,
 		"category": "Textiles",
 		"defname": "AA_ChameleonYakWoolTemperate"
 	},
 	{
-		"abr": "chameleonyakwool,winter",
+		"abr": "chameleonyakwoolwinter",
 		"price": 4,
 		"category": "Textiles",
 		"defname": "AA_ChameleonYakWoolWinter"
@@ -7473,4 +7473,4 @@
 	}
 	],
 	"total": 1250
-}
+	}
