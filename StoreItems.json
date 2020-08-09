@@ -6278,7 +6278,7 @@
 		"defname": "SpellOf_FertileLands"
 	},
 	{
-		"abr": "druidspell:egrowlimb",
+		"abr": "druidspellregrowlimb",
 		"price": 3100,
 		"category": "Scrolls",
 		"defname": "SpellOf_RegrowLimb"
@@ -7472,5 +7472,5 @@
 		"defname": "Biosolids"
 	}
 	],
-	"total": 1495
+	"total": 1250
 }
