@@ -241,7 +241,7 @@
 		"defname": "TM_Artifact_BracersOfThePacifist"
 	},
 	{
-		"abr": "builder'sjacket",
+		"abr": "buildersjacket",
 		"price": 622,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_BuildersJacket"
@@ -277,7 +277,7 @@
 		"defname": "VAE_Apparel_Chainmail"
 	},
 	{
-		"abr": "chef'suniform",
+		"abr": "chefsuniform",
 		"price": 722,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_ChefsUniform"
@@ -295,7 +295,7 @@
 		"defname": "VAE_Apparel_DoctorScrubs"
 	},
 	{
-		"abr": "drifter'sleatherjacket",
+		"abr": "driftersleatherjacket",
 		"price": 748,
 		"category": "Apparel",
 		"defname": "Kenshi_DrifterLeatherJacket"
@@ -398,7 +398,7 @@
 	},
 	{
 		"abr": "lightplatearmor",
-		"price": -1042,
+		"price": 1042,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_LightPlateArmor"
 	},
@@ -1399,7 +1399,7 @@
 		"defname": "VAE_Footwear_Shoes"
 	},
 	{
-		"abr": ""tincan"helmet",
+		"abr": "tincanhelmet",
 		"price": 653,
 		"category": "Headgear",
 		"defname": "Kenshi_TinCan"
@@ -1621,7 +1621,7 @@
 		"defname": "Kenshi_NinjaMask"
 	},
 	{
-		"abr": "paladin'sheavyhachigane",
+		"abr": "paladinsheavyhachigane",
 		"price": 613,
 		"category": "Headgear",
 		"defname": "Kenshi_PaladinHachigane"
