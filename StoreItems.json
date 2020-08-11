@@ -6457,7 +6457,7 @@
 		"defname": "HoodOfMadness"
 	},
 	{
-		"abr": "paragon'shelm",
+		"abr": "paragonshelm",
 		"price": 3167,
 		"category": "Magic equipment",
 		"defname": "ParagonHelm"
@@ -6469,7 +6469,7 @@
 		"defname": "ArchMageRobe"
 	},
 	{
-		"abr": "wanderer'scloak",
+		"abr": "wandererscloak",
 		"price": 2458,
 		"category": "Magic equipment",
 		"defname": "TM_MaestersCloak"
@@ -8545,7 +8545,7 @@
 		"defname": "ElectricSmithy"
 	},
 	{
-		"abr": "electricstonecutter'stable",
+		"abr": "electricstonecutterstable",
 		"price": -10,
 		"category": "Production",
 		"defname": "VFE_TableStonecutterElectric"
@@ -8713,7 +8713,7 @@
 		"defname": "SimpleResearchBench"
 	},
 	{
-		"abr": "stonecutter'stable",
+		"abr": "stonecutterstable",
 		"price": 358,
 		"category": "Production",
 		"defname": "TableStonecutter"
