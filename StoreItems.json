@@ -5349,7 +5349,7 @@
 	{
 		"abr": "kitchensink",
 		"price": 167,
-		"category": "",
+		"category": "Hygiene",
 		"defname": "KitchenSink"
 	},
 	{
@@ -5445,7 +5445,7 @@
 	{
 		"abr": "animushareincubator",
 		"price": -10,
-		"category": "",
+		"category": "Incubators",
 		"defname": "GR_AnimusHareIncubator"
 	},
 	{
@@ -5469,19 +5469,19 @@
 	{
 		"abr": "bearbugincubator",
 		"price": -10,
-		"category": "",
+		"category": "Incubators",
 		"defname": "GR_BearBugIncubator"
 	},
 	{
 		"abr": "beetlefleetincubator",
 		"price": -10,
-		"category": "",
+		"category": "Incubators",
 		"defname": "GR_BeetlefleetIncubator"
 	},
 	{
 		"abr": "boomaliskincubator",
 		"price": -10,
-		"category": "",
+		"category": "Incubators",
 		"defname": "GR_BoomaliskIncubator"
 	},
 	{
@@ -5727,7 +5727,7 @@
 	{
 		"abr": "groundfalloincubator",
 		"price": -10,
-		"category": "",
+		"category": "Incubators",
 		"defname": "GR_GroundfalloIncubator"
 	},
 	{
@@ -5775,7 +5775,7 @@
 	{
 		"abr": "meadowlizardincubator",
 		"price": -10,
-		"category": "",
+		"category": "Incubators",
 		"defname": "GR_MeadowLizardIncubator"
 	},
 	{
@@ -5913,13 +5913,13 @@
 	{
 		"abr": "needlechickenincubator",
 		"price": -10,
-		"category": "",
+		"category": "Incubators",
 		"defname": "GR_NeedlechickenIncubator"
 	},
 	{
 		"abr": "nighthrumboincubator",
 		"price": -10,
-		"category": "",
+		"category": "Incubators",
 		"defname": "GR_NighthrumboIncubator"
 	},
 	{
@@ -6153,7 +6153,7 @@
 	{
 		"abr": "wolfshrimpincubator",
 		"price": -10,
-		"category": "",
+		"category": "Incubators",
 		"defname": "GR_WolfShrimpIncubator"
 	},
 	{
