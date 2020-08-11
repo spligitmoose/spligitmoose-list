@@ -4652,7 +4652,7 @@
 	},
 	{
 		"abr": "fogmask",
-		"price": -10,
+		"price": 89,
 		"category": "Headgear",
 		"defname": "Kenshi_FogMask"
 	},
@@ -4934,181 +4934,181 @@
 	},
 	{
 		"abr": "animalimplantbearleg(tier1)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_BearLeg"
 	},
 	{
 		"abr": "animalimplantbearliver(tier1)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_BearLiver"
 	},
 	{
 		"abr": "animalimplantbionicthrumbobrain(tier3)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_ThrumboBrain"
 	},
 	{
 		"abr": "animalimplantbionicthrumboeye(tier3)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_ThrumboEye"
 	},
 	{
 		"abr": "animalimplantbionicthrumbojaws(tier3)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_ThrumboJaws"
 	},
 	{
 		"abr": "animalimplantboomalopeheart(tier1)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_BoomalopeHeart"
 	},
 	{
 		"abr": "animalimplantboomalopestomach(tier1)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_BoomalopeStomach"
 	},
 	{
 		"abr": "animalimplantcanideye(tier1)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_CanidEye"
 	},
 	{
 		"abr": "animalimplantchickenbrains(tier1)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_ChickenBrains"
 	},
 	{
 		"abr": "animalimplantchickenkidney(tier1)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_ChickenKidney"
 	},
 	{
 		"abr": "animalimplantchitinousheart(tier2)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_ChitinousHeart"
 	},
 	{
 		"abr": "animalimplantcrocodilespine(tier2)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_CrocodileSpine"
 	},
 	{
 		"abr": "animalimplantinsectmandibles(tier2)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_InsectMandibles"
 	},
 	{
 		"abr": "animalimplantinsectileeye(tier2)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_InsectileEye"
 	},
 	{
 		"abr": "animalimplantlizardleg(tier2)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_LizardLeg"
 	},
 	{
 		"abr": "animalimplantmechanoidauditoryreceptors(tier3)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_MechaReceptors"
 	},
 	{
 		"abr": "animalimplantmechanoidheart(tier3)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_MechaHeart"
 	},
 	{
 		"abr": "animalimplantmechanoidspine(tier3)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_MechaSpine"
 	},
 	{
 		"abr": "animalimplantmechanoidtail(tier3)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_MechaTail"
 	},
 	{
 		"abr": "animalimplantminiaturethrumbohorn(tier3)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_MiniatureThrumboHorn"
 	},
 	{
 		"abr": "animalimplantmonitorlizardbrain(tier2)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_MonitorLizardBrain"
 	},
 	{
 		"abr": "animalimplantmothtympanalorgan(tier2)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_MothTympanalOrgan"
 	},
 	{
 		"abr": "animalimplantmuffalolung(tier1)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_MuffaloLung"
 	},
 	{
 		"abr": "animalimplantmuffalospine(tier1)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_MuffaloSpine"
 	},
 	{
 		"abr": "animalimplantpheromonereceivers(tier2)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_InsectoidPheromones"
 	},
 	{
 		"abr": "animalimplantrodentear(tier1)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_RodentEar"
 	},
 	{
 		"abr": "animalimplantrodentnose(tier1)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_RodentNose"
 	},
 	{
 		"abr": "animalimplantscythertail(tier2)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_ScytherTail"
 	},
 	{
 		"abr": "animalimplantthrumboleg(tier3)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_ThrumboLeg"
 	},
 	{
 		"abr": "animalimplantwolfjaws(tier1)",
-		"price": -10,
+		"price": 417,
 		"category": "Hybrid implants",
 		"defname": "GR_WolfJaws"
 	},
@@ -6176,7 +6176,7 @@
 	},
 	{
 		"abr": "gallatrosshorn",
-		"price": -10,
+		"price": 2000,
 		"category": "Items",
 		"defname": "AA_GallatrossHorn"
 	},
@@ -6482,7 +6482,7 @@
 	},
 	{
 		"abr": "advancedcomponent",
-		"price": -10,
+		"price": 333,
 		"category": "Manufactured",
 		"defname": "ComponentSpacer"
 	},
@@ -6494,19 +6494,19 @@
 	},
 	{
 		"abr": "armormodule",
-		"price": -10,
+		"price": 1483,
 		"category": "Manufactured",
 		"defname": "WTH_ArmorModule"
 	},
 	{
 		"abr": "batteryexpansionmodule",
-		"price": -10,
+		"price": 1183,
 		"category": "Manufactured",
 		"defname": "WTH_BatteryExpansionModule"
 	},
 	{
 		"abr": "beltmodule",
-		"price": -10,
+		"price": 1175,
 		"category": "Manufactured",
 		"defname": "WTH_BeltModule"
 	},
@@ -6518,7 +6518,7 @@
 	},
 	{
 		"abr": "cargomodule",
-		"price": -10,
+		"price": 950,
 		"category": "Manufactured",
 		"defname": "WTH_CargoModule"
 	},
@@ -6530,7 +6530,7 @@
 	},
 	{
 		"abr": "cleaningmodule",
-		"price": -10,
+		"price": 1042,
 		"category": "Manufactured",
 		"defname": "WTH_CleaningModule"
 	},
@@ -6560,7 +6560,7 @@
 	},
 	{
 		"abr": "firefightingmodule",
-		"price": -10,
+		"price": 842,
 		"category": "Manufactured",
 		"defname": "WTH_FirefightingModule"
 	},
@@ -6572,13 +6572,13 @@
 	},
 	{
 		"abr": "growingmodule",
-		"price": -10,
+		"price": 1400,
 		"category": "Manufactured",
 		"defname": "WTH_GrowingModule"
 	},
 	{
 		"abr": "haulingmodule",
-		"price": -10,
+		"price": 1525,
 		"category": "Manufactured",
 		"defname": "WTH_HaulingModule"
 	},
@@ -6608,7 +6608,7 @@
 	},
 	{
 		"abr": "mechanoidparts",
-		"price": -10,
+		"price": 17,
 		"category": "Manufactured",
 		"defname": "WTH_MechanoidParts"
 	},
@@ -6626,7 +6626,7 @@
 	},
 	{
 		"abr": "opticsensormodule",
-		"price": -10,
+		"price": 767,
 		"category": "Manufactured",
 		"defname": "WTH_OpticSensorModule"
 	},
@@ -6638,7 +6638,7 @@
 	},
 	{
 		"abr": "overdrivemodule",
-		"price": -10,
+		"price": 767,
 		"category": "Manufactured",
 		"defname": "WTH_OverdriveModule"
 	},
@@ -6656,31 +6656,31 @@
 	},
 	{
 		"abr": "repairarm",
-		"price": -10,
+		"price": 725,
 		"category": "Manufactured",
 		"defname": "WTH_RepairArm"
 	},
 	{
 		"abr": "repairmodule",
-		"price": -10,
+		"price": 1158,
 		"category": "Manufactured",
 		"defname": "WTH_RepairModule"
 	},
 	{
 		"abr": "selfdestructmodule",
-		"price": -10,
+		"price": 417,
 		"category": "Manufactured",
 		"defname": "WTH_SelfDestructModule"
 	},
 	{
 		"abr": "speedmodule",
-		"price": -10,
+		"price": 750,
 		"category": "Manufactured",
 		"defname": "WTH_SpeedModule"
 	},
 	{
 		"abr": "turretmodule",
-		"price": -10,
+		"price": 1500,
 		"category": "Manufactured",
 		"defname": "WTH_TurretModule"
 	},
@@ -8486,13 +8486,13 @@
 	},
 	{
 		"abr": "brewery",
-		"price": -10,
+		"price": 350,
 		"category": "Production",
 		"defname": "Brewery"
 	},
 	{
 		"abr": "butchertable",
-		"price": -10,
+		"price": 302,
 		"category": "Production",
 		"defname": "TableButcher"
 	},
@@ -8552,7 +8552,7 @@
 	},
 	{
 		"abr": "electricstove",
-		"price": -10,
+		"price": 0,
 		"category": "Production",
 		"defname": "ElectricStove"
 	},
@@ -8582,7 +8582,7 @@
 	},
 	{
 		"abr": "fermentingbarrel",
-		"price": -10,
+		"price": 95,
 		"category": "Production",
 		"defname": "FermentingBarrel"
 	},
@@ -8594,13 +8594,13 @@
 	},
 	{
 		"abr": "fueledsmithy",
-		"price": -10,
+		"price": 333,
 		"category": "Production",
 		"defname": "FueledSmithy"
 	},
 	{
 		"abr": "fueledstove",
-		"price": -10,
+		"price": 265,
 		"category": "Production",
 		"defname": "FueledStove"
 	},
@@ -8642,7 +8642,7 @@
 	},
 	{
 		"abr": "handtailorbench",
-		"price": -10,
+		"price": 262,
 		"category": "Production",
 		"defname": "HandTailoringBench"
 	},
@@ -11671,7 +11671,7 @@
 		"defname": "NanowireBattery"
 	},
 	{
-		"abr": "advancedbio-reactor",
+		"abr": "advancedbioreactor",
 		"price": 2833,
 		"category": "Android",
 		"defname": "HighPowerTransformer"
@@ -11917,7 +11917,7 @@
 		"defname": "SmallBatteryPack"
 	},
 	{
-		"abr": "crudebio-reactor",
+		"abr": "crudebioreactor",
 		"price": 667,
 		"category": "Android",
 		"defname": "LowPowerTransformer"
@@ -12014,7 +12014,7 @@
 	},
 	{
 		"abr": "giddyupmodule",
-		"price": -10,
+		"price": 1125,
 		"category": "Manufactured",
 		"defname": "GU_Mech_GiddyUpModule"
 	},
@@ -12247,7 +12247,7 @@
 		"defname": "NSolution"
 	},
 	{
-		"abr": "orbitalmech-falltargeter",
+		"abr": "orbitalmechfalltargeter",
 		"price": 4000,
 		"category": "Ranged weapons",
 		"defname": "OrbitalTargeterMechFall"
