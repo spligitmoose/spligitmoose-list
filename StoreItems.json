@@ -4275,7 +4275,7 @@
 	{
 		"abr": "alphageneticmaterial",
 		"price": -10,
-		"category": "",
+		"category": "Genetic materials",
 		"defname": "GR_AlphaGenetic"
 	},
 	{
@@ -8767,7 +8767,7 @@
 		"defname": "SimpleProstheticLeg"
 	},
 	{
-		"abr": "anti-materialrifle",
+		"abr": "antimaterialrifle",
 		"price": 1717,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_AntiMaterialRifle"
@@ -8791,7 +8791,7 @@
 		"defname": "VWE_Gun_BattleRifle"
 	},
 	{
-		"abr": "bolt-actionrifle",
+		"abr": "boltactionrifle",
 		"price": 425,
 		"category": "Ranged weapons",
 		"defname": "Gun_BoltActionRifle"
@@ -10411,25 +10411,25 @@
 		"defname": "AS_PurpleShipChunkWingRight"
 	},
 	{
-		"abr": "hugecapturedasteroid,bottom",
+		"abr": "hugecapturedasteroidbottom",
 		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_HugeAsteroidBottom"
 	},
 	{
-		"abr": "hugecapturedasteroid,left",
+		"abr": "hugecapturedasteroidleft",
 		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_HugeAsteroidLeft"
 	},
 	{
-		"abr": "hugecapturedasteroid,right",
+		"abr": "hugecapturedasteroidright",
 		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_HugeAsteroidRight"
 	},
 	{
-		"abr": "hugecapturedasteroid,top",
+		"abr": "hugecapturedasteroidtop",
 		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_HugeAsteroidTop"
@@ -10597,25 +10597,25 @@
 		"defname": "AS_MechanoidWingRight"
 	},
 	{
-		"abr": "mediumcapturedasteroid,bottom",
+		"abr": "mediumcapturedasteroidbottom",
 		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkBigBottom"
 	},
 	{
-		"abr": "mediumcapturedasteroid,left",
+		"abr": "mediumcapturedasteroidleft",
 		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkBigSide"
 	},
 	{
-		"abr": "mediumcapturedasteroid,right",
+		"abr": "mediumcapturedasteroidright",
 		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkBigReactors"
 	},
 	{
-		"abr": "mediumcapturedasteroid,top",
+		"abr": "mediumcapturedasteroidtop",
 		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkBigTop"
@@ -10675,25 +10675,25 @@
 		"defname": "AS_GreyShipChukWingRight"
 	},
 	{
-		"abr": "smallcapturedasteroid,bottom",
+		"abr": "smallcapturedasteroidbottom",
 		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkDown"
 	},
 	{
-		"abr": "smallcapturedasteroid,left",
+		"abr": "smallcapturedasteroidleft",
 		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkLeft"
 	},
 	{
-		"abr": "smallcapturedasteroid,right",
+		"abr": "smallcapturedasteroidright",
 		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkReactor"
 	},
 	{
-		"abr": "smallcapturedasteroid,top",
+		"abr": "smallcapturedasteroidtop",
 		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkTop"
@@ -11221,13 +11221,13 @@
 		"defname": "GR_Boomthread"
 	},
 	{
-		"abr": "chameleonyakwool,desert",
+		"abr": "chameleonyakwooldesert",
 		"price": 4,
 		"category": "Textiles",
 		"defname": "AA_ChameleonYakWoolDesert"
 	},
 	{
-		"abr": "chameleonyakwool,jungle",
+		"abr": "chameleonyakwooljungle",
 		"price": 4,
 		"category": "Textiles",
 		"defname": "AA_ChameleonYakWoolJungle"
@@ -11239,7 +11239,7 @@
 		"defname": "AA_ChameleonYakWoolTemperate"
 	},
 	{
-		"abr": "chameleonyakwool,winter",
+		"abr": "chameleonyakwoolwinter",
 		"price": 4,
 		"category": "Textiles",
 		"defname": "AA_ChameleonYakWoolWinter"
