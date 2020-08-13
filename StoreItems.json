@@ -6272,13 +6272,13 @@
 	},
 	{
 		"abr": "gemofarcaneinsight",
-		"price": 5000,
+		"price": 2500,
 		"category": "Magic artifacts",
 		"defname": "GemstoneOfInsight_Magic"
 	},
 	{
 		"abr": "gemofphysicalinsight",
-		"price": 4000,
+		"price": 2000,
 		"category": "Magic artifacts",
 		"defname": "GemstoneOfInsight_Might"
 	},
@@ -8948,7 +8948,7 @@
 	},
 	{
 		"abr": "siegeturret",
-		"price": 2333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "AA_SiegeTurret"
 	},
@@ -9446,145 +9446,145 @@
 	},
 	{
 		"abr": "arcanegemofacceleration",
-		"price": 650,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_coolDown"
 	},
 	{
 		"abr": "arcanegemofconservation",
-		"price": 650,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_mpCost"
 	},
 	{
 		"abr": "arcanegemofforce",
-		"price": 650,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_arcaneDmg"
 	},
 	{
 		"abr": "arcanegemofholding",
-		"price": 650,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_maxMP"
 	},
 	{
 		"abr": "arcanegemoflearning",
-		"price": 650,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_xpGain"
 	},
 	{
 		"abr": "arcanegemofregeneration",
-		"price": 650,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_mpRegenRate"
 	},
 	{
 		"abr": "arcanegemofresistance",
-		"price": 650,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_arcaneRes"
 	},
 	{
 		"abr": "arcanegemofwonder",
-		"price": 4417,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_wonder"
 	},
 	{
 		"abr": "majorarcanegemofacceleration",
-		"price": 1592,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_coolDown_major"
 	},
 	{
 		"abr": "majorarcanegemofconservation",
-		"price": 1592,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_mpCost_major"
 	},
 	{
 		"abr": "majorarcanegemofforce",
-		"price": 1592,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_arcaneDmg_major"
 	},
 	{
 		"abr": "majorarcanegemofholding",
-		"price": 1592,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_maxMP_major"
 	},
 	{
 		"abr": "majorarcanegemoflearning",
-		"price": 1592,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_xpGain_major"
 	},
 	{
 		"abr": "majorarcanegemofregeneration",
-		"price": 1592,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_mpRegenRate_major"
 	},
 	{
 		"abr": "majorarcanegemofresistance",
-		"price": 1592,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_arcaneRes_major"
 	},
 	{
 		"abr": "majorarcanegemofwonder",
-		"price": 10917,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_wonder_major"
 	},
 	{
 		"abr": "minorarcanegemofacceleration",
-		"price": 283,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_coolDown_minor"
 	},
 	{
 		"abr": "minorarcanegemofconservation",
-		"price": 283,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_mpCost_minor"
 	},
 	{
 		"abr": "minorarcanegemofforce",
-		"price": 283,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_arcaneDmg_minor"
 	},
 	{
 		"abr": "minorarcanegemofholding",
-		"price": 283,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_maxMP_minor"
 	},
 	{
 		"abr": "minorarcanegemoflearning",
-		"price": 283,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_xpGain_minor"
 	},
 	{
 		"abr": "minorarcanegemofregeneration",
-		"price": 283,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_mpRegenRate_minor"
 	},
 	{
 		"abr": "minorarcanegemofresistance",
-		"price": 283,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_arcaneRes_minor"
 	},
 	{
 		"abr": "minorarcanegemofwonder",
-		"price": 1983,
+		"price": -10,
 		"category": "Refined magicyte",
 		"defname": "TM_EStone_wonder_minor"
 	},
@@ -10004,7 +10004,7 @@
 	},
 	{
 		"abr": "chemfuelbarrel",
-		"price": -10,
+		"price": 296,
 		"category": "Security",
 		"defname": "VFES_ChemfuelBarrel"
 	},
@@ -11048,7 +11048,7 @@
 	},
 	{
 		"abr": "blackhivegeneticmaterial",
-		"price": 833,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "VFEI_BlackHiveGenome"
 	},
@@ -12917,6 +12917,90 @@
 		"price": 25,
 		"category": "Alien raw fish",
 		"defname": "VCEF_Slimefish"
+	},
+	{
+		"abr": "spiderfish",
+		"price": 4,
+		"category": "Alien raw fish",
+		"defname": "VCEF_Spiderfish"
+	},
+	{
+		"abr": "spinyfish",
+		"price": 7,
+		"category": "Alien raw fish",
+		"defname": "VCEF_Spinyfish"
+	},
+	{
+		"abr": "steelhorn",
+		"price": 2000,
+		"category": "Bionic",
+		"defname": "SteelThrumkinHorn"
+	},
+	{
+		"abr": "sturgeon",
+		"price": 7,
+		"category": "Alien raw fish",
+		"defname": "VCEF_Sturgeon"
+	},
+	{
+		"abr": "sugarfamewort",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "AB_RawSugarFamewort"
+	},
+	{
+		"abr": "tabard",
+		"price": 211,
+		"category": "Apparel",
+		"defname": "VFEM_Apparel_Tabard"
+	},
+	{
+		"abr": "taintedskin",
+		"price": 13,
+		"category": "Leathers",
+		"defname": "Tainted_Skin"
+	},
+	{
+		"abr": "tarshell",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "AB_Shell_Tar"
+	},
+	{
+		"abr": "tentacularfruit",
+		"price": 1,
+		"category": "Vegetarian",
+		"defname": "AB_RawTentacularFruit"
+	},
+	{
+		"abr": "throwlightning(0)",
+		"price": 83,
+		"category": "Ranged weapons",
+		"defname": "Harpy_LightningWeaponZero"
+	},
+	{
+		"abr": "throwlightning(1)",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Harpy_LightningWeaponOne"
+	},
+	{
+		"abr": "throwlightning(2)",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "Harpy_LightningWeaponTwo"
+	},
+	{
+		"abr": "throwlightning(3)",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "Harpy_LightningWeaponThree"
+	},
+	{
+		"abr": "throwlightning(4)",
+		"price": 1833,
+		"category": "Ranged weapons",
+		"defname": "Harpy_LightningWeaponFour"
 	}
 	],
 	"total": 2224
