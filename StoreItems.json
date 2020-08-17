@@ -109,12 +109,6 @@
 		"defname": "GR_BearBug"
 	},
 	{
-		"abr": "bearman",
-		"price": -10,
-		"category": "Animal",
-		"defname": "BearMan"
-	},
-	{
 		"abr": "bearalope",
 		"price": -10,
 		"category": "Animal",
@@ -317,12 +311,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "AA_Cactipine"
-	},
-	{
-		"abr": "camelman",
-		"price": -10,
-		"category": "Animal",
-		"defname": "CamelMan"
 	},
 	{
 		"abr": "capybara",
@@ -595,22 +583,10 @@
 		"defname": "Elephant"
 	},
 	{
-		"abr": "elephantman",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ElephantMan"
-	},
-	{
 		"abr": "elk",
 		"price": -10,
 		"category": "Animal",
 		"defname": "Elk"
-	},
-	{
-		"abr": "elkman",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ElkMan"
 	},
 	{
 		"abr": "emu",
@@ -685,12 +661,6 @@
 		"defname": "Kenshi_Fogman_Soldier"
 	},
 	{
-		"abr": "foxman",
-		"price": -10,
-		"category": "Animal",
-		"defname": "FoxMan"
-	},
-	{
 		"abr": "frostave",
 		"price": -10,
 		"category": "Animal",
@@ -725,12 +695,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "Gazelle"
-	},
-	{
-		"abr": "gazelleman",
-		"price": -10,
-		"category": "Animal",
-		"defname": "GazelleMan"
 	},
 	{
 		"abr": "gigantelope",
@@ -899,12 +863,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "Lynx"
-	},
-	{
-		"abr": "lynxman",
-		"price": -10,
-		"category": "Animal",
-		"defname": "LynxMan"
 	},
 	{
 		"abr": "mammothworm",
@@ -1267,12 +1225,6 @@
 		"defname": "Pig"
 	},
 	{
-		"abr": "pigman",
-		"price": -10,
-		"category": "Animal",
-		"defname": "PigMan"
-	},
-	{
 		"abr": "pikeman",
 		"price": -10,
 		"category": "Animal",
@@ -1307,12 +1259,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "Raccoon"
-	},
-	{
-		"abr": "raccoonman",
-		"price": -10,
-		"category": "Animal",
-		"defname": "RaccoonMan"
 	},
 	{
 		"abr": "radyak",
@@ -1649,12 +1595,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "AA_Wildpod"
-	},
-	{
-		"abr": "wolfman",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WolfMan"
 	},
 	{
 		"abr": "wolfshrimp",
@@ -6422,7 +6362,7 @@
 	},
 	{
 		"abr": "extractedbraindata",
-		"price": -10,
+		"price": 58,
 		"category": "Manufactured",
 		"defname": "WTH_ExtractedBrainData"
 	},
@@ -6452,7 +6392,7 @@
 	},
 	{
 		"abr": "hivedata",
-		"price": -10,
+		"price": 58,
 		"category": "Manufactured",
 		"defname": "WTH_MechanoidData"
 	},
@@ -6673,12 +6613,6 @@
 		"defname": "Meat_AA_Atispec"
 	},
 	{
-		"abr": "bearmanmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BearMan"
-	},
-	{
 		"abr": "bearmeat",
 		"price": 3,
 		"category": "Meat",
@@ -6731,12 +6665,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AA_Cactipine"
-	},
-	{
-		"abr": "camelmanmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_CamelMan"
 	},
 	{
 		"abr": "capybarameat",
@@ -6913,22 +6841,10 @@
 		"defname": "Meat_TM_GreaterWind_ElementalR"
 	},
 	{
-		"abr": "elephantmanmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_ElephantMan"
-	},
-	{
 		"abr": "elephantmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Elephant"
-	},
-	{
-		"abr": "elkmanmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_ElkMan"
 	},
 	{
 		"abr": "elkmeat",
@@ -6961,12 +6877,6 @@
 		"defname": "Meat_Kenshi_Fogman_Soldier"
 	},
 	{
-		"abr": "foxmanmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_FoxMan"
-	},
-	{
 		"abr": "foxmeat",
 		"price": 3,
 		"category": "Meat",
@@ -6989,12 +6899,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AA_Gallatross"
-	},
-	{
-		"abr": "gazellemanmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_GazelleMan"
 	},
 	{
 		"abr": "gazellemeat",
@@ -7133,12 +7037,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AA_Lockjaw"
-	},
-	{
-		"abr": "lynxmanmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_LynxMan"
 	},
 	{
 		"abr": "lynxmeat",
@@ -7333,12 +7231,6 @@
 		"defname": "Meat_AA_PebbleMit"
 	},
 	{
-		"abr": "pigmanmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_PigMan"
-	},
-	{
 		"abr": "plasmorphmeat",
 		"price": 3,
 		"category": "Meat",
@@ -7355,12 +7247,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Pig"
-	},
-	{
-		"abr": "raccoonmanmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RaccoonMan"
 	},
 	{
 		"abr": "raccoonmeat",
@@ -7601,12 +7487,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AA_Wildpod"
-	},
-	{
-		"abr": "wolfmanmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WolfMan"
 	},
 	{
 		"abr": "wolfmeat",
@@ -7895,12 +7775,6 @@
 		"price": 642,
 		"category": "Misc",
 		"defname": "ToolCabinet"
-	},
-	{
-		"abr": "vanometricheatsink",
-		"price": -10,
-		"category": "Misc",
-		"defname": "AS_ArchotechHeatsink"
 	},
 	{
 		"abr": "vitalsmonitor",
@@ -9043,156 +8917,6 @@
 		"defname": "VWE_Tool_Whip"
 	},
 	{
-		"abr": "anchovy",
-		"price": 2,
-		"category": "Raw fish",
-		"defname": "VCEF_RawAnchovy"
-	},
-	{
-		"abr": "angelfish",
-		"price": 5,
-		"category": "Raw fish",
-		"defname": "VCEF_RawAngelfish"
-	},
-	{
-		"abr": "anglerfish",
-		"price": 2,
-		"category": "Raw fish",
-		"defname": "VCEF_RawAnglerfish"
-	},
-	{
-		"abr": "bass",
-		"price": 3,
-		"category": "Raw fish",
-		"defname": "VCEF_RawBass"
-	},
-	{
-		"abr": "catfish",
-		"price": 7,
-		"category": "Raw fish",
-		"defname": "VCEF_RawCatfish"
-	},
-	{
-		"abr": "clownfish",
-		"price": 2,
-		"category": "Raw fish",
-		"defname": "VCEF_RawClownfish"
-	},
-	{
-		"abr": "cod",
-		"price": 7,
-		"category": "Raw fish",
-		"defname": "VCEF_RawCod"
-	},
-	{
-		"abr": "eel",
-		"price": 3,
-		"category": "Raw fish",
-		"defname": "VCEF_RawEel"
-	},
-	{
-		"abr": "goldfish",
-		"price": 17,
-		"category": "Raw fish",
-		"defname": "VCEF_RawGoldfish"
-	},
-	{
-		"abr": "guppy",
-		"price": 2,
-		"category": "Raw fish",
-		"defname": "VCEF_RawGuppy"
-	},
-	{
-		"abr": "haddock",
-		"price": 3,
-		"category": "Raw fish",
-		"defname": "VCEF_RawHaddock"
-	},
-	{
-		"abr": "halibut",
-		"price": 12,
-		"category": "Raw fish",
-		"defname": "VCEF_RawHalibut"
-	},
-	{
-		"abr": "herring",
-		"price": 3,
-		"category": "Raw fish",
-		"defname": "VCEF_RawHerring"
-	},
-	{
-		"abr": "koi",
-		"price": 7,
-		"category": "Raw fish",
-		"defname": "VCEF_RawKoi"
-	},
-	{
-		"abr": "lobster",
-		"price": 20,
-		"category": "Raw fish",
-		"defname": "VCEF_RawLobster"
-	},
-	{
-		"abr": "mackerel",
-		"price": 3,
-		"category": "Raw fish",
-		"defname": "VCEF_RawMackerel"
-	},
-	{
-		"abr": "minnow",
-		"price": 2,
-		"category": "Raw fish",
-		"defname": "VCEF_RawMinnow"
-	},
-	{
-		"abr": "perch",
-		"price": 3,
-		"category": "Raw fish",
-		"defname": "VCEF_RawPerch"
-	},
-	{
-		"abr": "piranha",
-		"price": 5,
-		"category": "Raw fish",
-		"defname": "VCEF_RawPiranha"
-	},
-	{
-		"abr": "pufferfish",
-		"price": 5,
-		"category": "Raw fish",
-		"defname": "VCEF_RawPufferfish"
-	},
-	{
-		"abr": "salmon",
-		"price": 17,
-		"category": "Raw fish",
-		"defname": "VCEF_RawSalmon"
-	},
-	{
-		"abr": "sprat",
-		"price": 3,
-		"category": "Raw fish",
-		"defname": "VCEF_RawSprat"
-	},
-	{
-		"abr": "swordfish",
-		"price": 25,
-		"category": "Raw fish",
-		"defname": "VCEF_RawSwordfish"
-	},
-	{
-		"abr": "trout",
-		"price": 3,
-		"category": "Raw fish",
-		"defname": "VCEF_RawTrout"
-	},
-	{
-		"abr": "tuna",
-		"price": 7,
-		"category": "Raw fish",
-		"defname": "VCEF_RawTuna"
-	},
-	{
 		"abr": "arcalleum",
 		"price": 22,
 		"category": "Raw resources",
@@ -10111,390 +9835,6 @@
 		"defname": "TrapSpike"
 	},
 	{
-		"abr": "bioshipbottom",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_PurpleShipChunkBottom"
-	},
-	{
-		"abr": "bioshipbottomalternate",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_PurpleShipChunkBottomPointy"
-	},
-	{
-		"abr": "bioshipsideleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_PurpleShipChunkSideLeft"
-	},
-	{
-		"abr": "bioshipsideright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_PurpleShipChunkSideRight"
-	},
-	{
-		"abr": "bioshiptop",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_PurpleShipChunkTop"
-	},
-	{
-		"abr": "bioshiptopleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_PurpleShipChunkTopLeft"
-	},
-	{
-		"abr": "bioshiptopright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_PurpleShipChunkTopRight"
-	},
-	{
-		"abr": "bioshipwingleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_PurpleShipChunkWingLeft"
-	},
-	{
-		"abr": "bioshipwingright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_PurpleShipChunkWingRight"
-	},
-	{
-		"abr": "hugecapturedasteroidbottom",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_HugeAsteroidBottom"
-	},
-	{
-		"abr": "hugecapturedasteroidleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_HugeAsteroidLeft"
-	},
-	{
-		"abr": "hugecapturedasteroidright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_HugeAsteroidRight"
-	},
-	{
-		"abr": "hugecapturedasteroidtop",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_HugeAsteroidTop"
-	},
-	{
-		"abr": "imperialescortshipbottom",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkBottom"
-	},
-	{
-		"abr": "imperialescortshipleftside",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkSideLeft"
-	},
-	{
-		"abr": "imperialescortshiprightside",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkSideRight"
-	},
-	{
-		"abr": "imperialescortshiproundcore",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkRound"
-	},
-	{
-		"abr": "imperialescortshiproundsideleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkRoundSideLeft"
-	},
-	{
-		"abr": "imperialescortshiproundsideright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkRoundSideRight"
-	},
-	{
-		"abr": "imperialescortshipsmallleftside",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkSmallSideLeft"
-	},
-	{
-		"abr": "imperialescortshipsmallrightside",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkSmallSideRight"
-	},
-	{
-		"abr": "imperialescortshipsmallwingleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkSmallWingLeft"
-	},
-	{
-		"abr": "imperialescortshipsmallwingright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkSmallWingRight"
-	},
-	{
-		"abr": "imperialescortshiptop",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkTop"
-	},
-	{
-		"abr": "imperialescortshiptopalternate",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkTopAlternate"
-	},
-	{
-		"abr": "imperialescortshiptoplarge",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkTopPointy"
-	},
-	{
-		"abr": "imperialescortshiptopnarrowantennas",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkTopAntennasNarrow"
-	},
-	{
-		"abr": "imperialescortshiptopwithantennas",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkTopAntennas"
-	},
-	{
-		"abr": "imperialescortshipwidebottom",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkBottomAlternate"
-	},
-	{
-		"abr": "imperialescortshipwingleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkWingLeft"
-	},
-	{
-		"abr": "imperialescortshipwingright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkWingRight"
-	},
-	{
-		"abr": "mechanoidshipbottom",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_MechanoidShipBottom"
-	},
-	{
-		"abr": "mechanoidshipbottomalternate",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_MechanoidShipBottomLong"
-	},
-	{
-		"abr": "mechanoidshipsideleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_MechanoidSideLeft"
-	},
-	{
-		"abr": "mechanoidshipsideright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_MechanoidSideRight"
-	},
-	{
-		"abr": "mechanoidshiptankleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_MechanoidTankLeft"
-	},
-	{
-		"abr": "mechanoidshiptankright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_MechanoidTankRight"
-	},
-	{
-		"abr": "mechanoidshiptop",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_MechanoidShipTop"
-	},
-	{
-		"abr": "mechanoidshipwingleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_MechanoidWingLeft"
-	},
-	{
-		"abr": "mechanoidshipwingright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_MechanoidWingRight"
-	},
-	{
-		"abr": "mediumcapturedasteroidbottom",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_AsteroidChunkBigBottom"
-	},
-	{
-		"abr": "mediumcapturedasteroidleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_AsteroidChunkBigSide"
-	},
-	{
-		"abr": "mediumcapturedasteroidright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_AsteroidChunkBigReactors"
-	},
-	{
-		"abr": "mediumcapturedasteroidtop",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_AsteroidChunkBigTop"
-	},
-	{
-		"abr": "pirateshipbottom",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_GreyShipChunkBottom"
-	},
-	{
-		"abr": "pirateshiplargewingleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_GreyShipChukWingAlternateLeft"
-	},
-	{
-		"abr": "pirateshiplargewingright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_GreyShipChukWingAlternateRight"
-	},
-	{
-		"abr": "pirateshipsideleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_GreyShipChunkSideLeft"
-	},
-	{
-		"abr": "pirateshipsideright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_GreyShipChunkSideRight"
-	},
-	{
-		"abr": "pirateshiptop",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_GreyShipChunkTop"
-	},
-	{
-		"abr": "pirateshiptoplarge",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_GreyShipChunkTopPointy"
-	},
-	{
-		"abr": "pirateshipwingleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_GreyShipChukWingLeft"
-	},
-	{
-		"abr": "pirateshipwingright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_GreyShipChukWingRight"
-	},
-	{
-		"abr": "smallcapturedasteroidbottom",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_AsteroidChunkDown"
-	},
-	{
-		"abr": "smallcapturedasteroidleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_AsteroidChunkLeft"
-	},
-	{
-		"abr": "smallcapturedasteroidright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_AsteroidChunkReactor"
-	},
-	{
-		"abr": "smallcapturedasteroidtop",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_AsteroidChunkTop"
-	},
-	{
-		"abr": "tradeshipbottom",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_OrangeShipBottom"
-	},
-	{
-		"abr": "tradeshipbottomalternate",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_OrangeShipBottomAlternate"
-	},
-	{
-		"abr": "tradeshipsideleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_OrangeShipLeft"
-	},
-	{
-		"abr": "tradeshipsideright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_OrangeShipRight"
-	},
-	{
-		"abr": "tradeshiptanksleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_OrangeShipTanksLeft"
-	},
-	{
-		"abr": "tradeshiptanksright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_OrangeShipTanksRight"
-	},
-	{
-		"abr": "tradeshiptop",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_OrangeShipTop"
-	},
-	{
 		"abr": "arcanescript???",
 		"price": 2500,
 		"category": "Skill books",
@@ -10855,12 +10195,6 @@
 		"defname": "VFE_SmallVanometricPowerCell"
 	},
 	{
-		"abr": "vanometricfoodprocessor",
-		"price": 3000,
-		"category": "Special",
-		"defname": "AS_VanometricFoodProcessor"
-	},
-	{
 		"abr": "vanometricpowercell",
 		"price": 3000,
 		"category": "Special",
@@ -10993,34 +10327,10 @@
 		"defname": "RawAgave"
 	},
 	{
-		"abr": "antenna",
-		"price": 2000,
-		"category": "Insect",
-		"defname": "VFEI_Antenna"
-	},
-	{
 		"abr": "antigraintorpedo",
-		"price": 2500,
+		"price": -10,
 		"category": "Torpedoes",
 		"defname": "ShipTorpedo_Antimatter"
-	},
-	{
-		"abr": "archotecheraser",
-		"price": 3333,
-		"category": "Artifacts",
-		"defname": "VFEI_Artifacts_ArchotechEraser"
-	},
-	{
-		"abr": "archotechshieldbelt",
-		"price": 2183,
-		"category": "Artifacts",
-		"defname": "VFEI_Apparel_ArchotechShieldBelt"
-	},
-	{
-		"abr": "archotechteleporter",
-		"price": 1333,
-		"category": "Artifacts",
-		"defname": "VFEI_Artifacts_ArchotechTeleporter"
 	},
 	{
 		"abr": "beaverwolfcastoreum",
@@ -11035,40 +10345,16 @@
 		"defname": "RawBerries"
 	},
 	{
-		"abr": "bioengineeringincubator",
-		"price": 1067,
-		"category": "Furniture",
-		"defname": "VFEI_BioengineeringIncubator"
-	},
-	{
 		"abr": "biosolids",
 		"price": 1,
 		"category": "Waste",
 		"defname": "Biosolids"
 	},
 	{
-		"abr": "blackhivegeneticmaterial",
-		"price": -10,
-		"category": "Manufactured",
-		"defname": "VFEI_BlackHiveGenome"
-	},
-	{
-		"abr": "chitin",
-		"price": 10,
-		"category": "Raw resources",
-		"defname": "VFEI_Chitin"
-	},
-	{
 		"abr": "cloth",
 		"price": 2,
 		"category": "Textiles",
 		"defname": "Cloth"
-	},
-	{
-		"abr": "compoundeye",
-		"price": 2000,
-		"category": "Insect",
-		"defname": "VFEI_CompoundEye"
 	},
 	{
 		"abr": "corn",
@@ -11083,14 +10369,8 @@
 		"defname": "DevilstrandCloth"
 	},
 	{
-		"abr": "dronegeneticmaterial",
-		"price": 167,
-		"category": "Manufactured",
-		"defname": "VFEI_DroneGenome"
-	},
-	{
 		"abr": "emptorpedo",
-		"price": 433,
+		"price": -10,
 		"category": "Torpedoes",
 		"defname": "ShipTorpedo_EMP"
 	},
@@ -11101,12 +10381,6 @@
 		"defname": "AA_RottingMoundItem"
 	},
 	{
-		"abr": "gigalocust",
-		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_Insectoid_Gigalocust"
-	},
-	{
 		"abr": "hairballwool",
 		"price": 4,
 		"category": "Textiles",
@@ -11114,7 +10388,7 @@
 	},
 	{
 		"abr": "highexplosivetorpedo",
-		"price": 433,
+		"price": -10,
 		"category": "Torpedoes",
 		"defname": "ShipTorpedo_HighExplosive"
 	},
@@ -11125,58 +10399,10 @@
 		"defname": "Hyperweave"
 	},
 	{
-		"abr": "insectmilk",
-		"price": 5,
-		"category": "Animal products",
-		"defname": "VFEI_InsectMilk"
-	},
-	{
-		"abr": "insectoidarm",
-		"price": 2000,
-		"category": "Insect",
-		"defname": "VFEI_InsectoidArm"
-	},
-	{
-		"abr": "insectoidegg(unfert.)",
-		"price": -10,
-		"category": "Eggs (unfert.)",
-		"defname": "VFEI_EggInsectoidUnfertilized"
-	},
-	{
-		"abr": "insectoidleg",
-		"price": 2000,
-		"category": "Insect",
-		"defname": "VFEI_InsectoidLeg"
-	},
-	{
-		"abr": "insectoidqueen",
-		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_Insectoid_Queen"
-	},
-	{
-		"abr": "jellysac",
-		"price": 2000,
-		"category": "Insect",
-		"defname": "VFEI_JellySac"
-	},
-	{
-		"abr": "larvae",
-		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_Insectoid_Larvae"
-	},
-	{
 		"abr": "manaweave",
 		"price": 15,
 		"category": "Textiles",
 		"defname": "TM_Manaweave"
-	},
-	{
-		"abr": "mandibles",
-		"price": 2000,
-		"category": "Insect",
-		"defname": "VFEI_Mandibles"
 	},
 	{
 		"abr": "mashedpomana",
@@ -11189,12 +10415,6 @@
 		"price": 25,
 		"category": "Textiles",
 		"defname": "GR_MechaWool"
-	},
-	{
-		"abr": "megapede",
-		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_Insectoid_Megapede"
 	},
 	{
 		"abr": "megaslothwool",
@@ -11233,52 +10453,10 @@
 		"defname": "GR_MuffalowolfWool"
 	},
 	{
-		"abr": "pheromonesecretor",
-		"price": 2000,
-		"category": "Insect",
-		"defname": "VFEI_PheromoneSecretor"
-	},
-	{
 		"abr": "plantmeat",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "AA_CactusMeat"
-	},
-	{
-		"abr": "plasmascattergun",
-		"price": 3833,
-		"category": "Ranged weapons",
-		"defname": "VFE_Gun_PlasmaScattergun"
-	},
-	{
-		"abr": "plasmabeamrifle",
-		"price": 4167,
-		"category": "Ranged weapons",
-		"defname": "VFE_Gun_PlasmabeamRifle"
-	},
-	{
-		"abr": "plasmacutter",
-		"price": 3333,
-		"category": "Ranged weapons",
-		"defname": "VFE_Gun_Plasmacutter"
-	},
-	{
-		"abr": "plasmapiercer",
-		"price": 3833,
-		"category": "Ranged weapons",
-		"defname": "VFE_Gun_Plasmapiercer"
-	},
-	{
-		"abr": "plasmasaw",
-		"price": 3333,
-		"category": "Melee weapons",
-		"defname": "VFE_Plasmasaw"
-	},
-	{
-		"abr": "pneumaticclaw",
-		"price": 2000,
-		"category": "Insect",
-		"defname": "VFEI_PneumaticClaw"
 	},
 	{
 		"abr": "pomanafruit",
@@ -11291,18 +10469,6 @@
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawPotatoes"
-	},
-	{
-		"abr": "predatorstomach",
-		"price": 2000,
-		"category": "Insect",
-		"defname": "VFEI_PredatorStomach"
-	},
-	{
-		"abr": "psychicanimaltamer",
-		"price": 2500,
-		"category": "Artifacts",
-		"defname": "VFEI_Artifacts_PsychicAnimalTamer"
 	},
 	{
 		"abr": "cryptosleepsuspender",
@@ -11947,18 +11113,6 @@
 		"defname": "PositronMindImplant"
 	},
 	{
-		"abr": "psychicpacifier",
-		"price": 2500,
-		"category": "Artifacts",
-		"defname": "VFEI_Artifacts_PsychicPacifier"
-	},
-	{
-		"abr": "psychicwarhead",
-		"price": 1667,
-		"category": "Mortar shells",
-		"defname": "VFEI_Shell_PsychicWarhead"
-	},
-	{
 		"abr": "rawfungus",
 		"price": 2,
 		"category": "Vegetarian",
@@ -11983,46 +11137,10 @@
 		"defname": "RawRice"
 	},
 	{
-		"abr": "riotarmor",
-		"price": 667,
-		"category": "Armor",
-		"defname": "VFE_Apparel_RiotArmor"
-	},
-	{
-		"abr": "riothelmet",
-		"price": 315,
-		"category": "Headgear",
-		"defname": "VFE_Apparel_RiotHelmet"
-	},
-	{
-		"abr": "riotshield",
-		"price": 274,
-		"category": "Shields",
-		"defname": "VFEI_Shield_Riot"
-	},
-	{
 		"abr": "roboticsproductioncasket",
 		"price": 900,
 		"category": "Production",
 		"defname": "AndroidProductionVat"
-	},
-	{
-		"abr": "royalgeneticmaterial",
-		"price": 333,
-		"category": "Manufactured",
-		"defname": "VFEI_RoyalGenome"
-	},
-	{
-		"abr": "royalinsectjelly",
-		"price": 17,
-		"category": "Animal products",
-		"defname": "VFEI_RoyalInsectJelly"
-	},
-	{
-		"abr": "royalmegaspider",
-		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_Insectoid_RoyalMegaspider"
 	},
 	{
 		"abr": "rxneuralchip",
@@ -12065,18 +11183,6 @@
 		"price": 2667,
 		"category": "Android",
 		"defname": "SoldierMindImplant"
-	},
-	{
-		"abr": "sonicinfestationrepeller",
-		"price": 3217,
-		"category": "Furniture",
-		"defname": "VFEI_SonicInfestationRepeller"
-	},
-	{
-		"abr": "spidersilk",
-		"price": 17,
-		"category": "Textiles",
-		"defname": "VFEI_Spidersilk"
 	},
 	{
 		"abr": "spidersnakesilk",
@@ -12161,12 +11267,6 @@
 		"price": 292,
 		"category": "Mortar shells",
 		"defname": "Nanoswarm_shell"
-	},
-	{
-		"abr": "synapticcerebellum",
-		"price": 2000,
-		"category": "Insect",
-		"defname": "VFEI_SynapticCerebellum"
 	},
 	{
 		"abr": "synthread",
@@ -12427,12 +11527,6 @@
 		"defname": "RawHarpyChilis"
 	},
 	{
-		"abr": "crossbow",
-		"price": 251,
-		"category": "Ranged weapons",
-		"defname": "Thrumkin_Crossbow"
-	},
-	{
 		"abr": "doormat",
 		"price": 8,
 		"category": "Furniture",
@@ -12481,28 +11575,10 @@
 		"defname": "MealFine_Naga"
 	},
 	{
-		"abr": "finemeal(vegetables)",
-		"price": 33,
-		"category": "Meals",
-		"defname": "MealFine_Thrumkin"
-	},
-	{
 		"abr": "flaktailarmor",
 		"price": 375,
 		"category": "Apparel",
 		"defname": "Apparel_FlakTailArmor"
-	},
-	{
-		"abr": "frostleaves",
-		"price": 5,
-		"category": "Vegetarian",
-		"defname": "RawFrostleaves"
-	},
-	{
-		"abr": "ghostashwood",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "WoodLog_GhostAsh"
 	},
 	{
 		"abr": "harpy",
@@ -12533,12 +11609,6 @@
 		"price": 2500,
 		"category": "Archotech",
 		"defname": "HarpyWorkClaw"
-	},
-	{
-		"abr": "hornenhancement",
-		"price": 5333,
-		"category": "Bionic",
-		"defname": "EnhancementThrumkinHorn"
 	},
 	{
 		"abr": "largedoormat",
@@ -12581,18 +11651,6 @@
 		"price": 50,
 		"category": "Meals",
 		"defname": "MealLavish_Harpy"
-	},
-	{
-		"abr": "lightmarinearmor",
-		"price": 2183,
-		"category": "Apparel",
-		"defname": "VAE_Apparel_LightMarineArmor"
-	},
-	{
-		"abr": "lightmarinehelmet",
-		"price": 733,
-		"category": "Headgear",
-		"defname": "VAE_Headgear_LightMarineHelmet"
 	},
 	{
 		"abr": "linkeddoormat",
@@ -12835,18 +11893,6 @@
 		"defname": "SimpleProstheticWingHarpy"
 	},
 	{
-		"abr": "psychicinsanitylance",
-		"price": 1083,
-		"category": "Artifacts",
-		"defname": "PsychicInsanityLance"
-	},
-	{
-		"abr": "psychicshocklance",
-		"price": 917,
-		"category": "Artifacts",
-		"defname": "PsychicShockLance"
-	},
-	{
 		"abr": "psychotropicfungus",
 		"price": 3,
 		"category": "Drugs",
@@ -12895,12 +11941,6 @@
 		"defname": "MealSimple_Naga"
 	},
 	{
-		"abr": "simplemeal(vegetables)",
-		"price": 25,
-		"category": "Meals",
-		"defname": "MealSimple_Thrumkin"
-	},
-	{
 		"abr": "slime",
 		"price": 1,
 		"category": "Vegetarian",
@@ -12929,12 +11969,6 @@
 		"price": 7,
 		"category": "Alien raw fish",
 		"defname": "VCEF_Spinyfish"
-	},
-	{
-		"abr": "steelhorn",
-		"price": 2000,
-		"category": "Bionic",
-		"defname": "SteelThrumkinHorn"
 	},
 	{
 		"abr": "sturgeon",
@@ -13001,7 +12035,1171 @@
 		"price": 1833,
 		"category": "Ranged weapons",
 		"defname": "Harpy_LightningWeaponFour"
+	},
+	{
+		"abr": "bioship,bottom",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkBottom"
+	},
+	{
+		"abr": "bioship,bottomalternate",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkBottomPointy"
+	},
+	{
+		"abr": "bioship,sideleft",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkSideLeft"
+	},
+	{
+		"abr": "bioship,sideright",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkSideRight"
+	},
+	{
+		"abr": "bioship,top",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkTop"
+	},
+	{
+		"abr": "bioship,topleft",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkTopLeft"
+	},
+	{
+		"abr": "bioship,topright",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkTopRight"
+	},
+	{
+		"abr": "bioship,wingleft",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkWingLeft"
+	},
+	{
+		"abr": "bioship,wingright",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkWingRight"
+	},
+	{
+		"abr": "hugecapturedasteroid,bottom",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_HugeAsteroidBottom"
+	},
+	{
+		"abr": "hugecapturedasteroid,left",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_HugeAsteroidLeft"
+	},
+	{
+		"abr": "hugecapturedasteroid,right",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_HugeAsteroidRight"
+	},
+	{
+		"abr": "hugecapturedasteroid,top",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_HugeAsteroidTop"
+	},
+	{
+		"abr": "imperialescortship,bottom",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkBottom"
+	},
+	{
+		"abr": "imperialescortship,leftside",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkSideLeft"
+	},
+	{
+		"abr": "imperialescortship,rightside",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkSideRight"
+	},
+	{
+		"abr": "imperialescortship,roundcore",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkRound"
+	},
+	{
+		"abr": "imperialescortship,roundsideleft",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkRoundSideLeft"
+	},
+	{
+		"abr": "imperialescortship,roundsideright",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkRoundSideRight"
+	},
+	{
+		"abr": "imperialescortship,smallleftside",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkSmallSideLeft"
+	},
+	{
+		"abr": "imperialescortship,smallrightside",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkSmallSideRight"
+	},
+	{
+		"abr": "imperialescortship,smallwingleft",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkSmallWingLeft"
+	},
+	{
+		"abr": "imperialescortship,smallwingright",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkSmallWingRight"
+	},
+	{
+		"abr": "imperialescortship,top",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkTop"
+	},
+	{
+		"abr": "imperialescortship,topalternate",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkTopAlternate"
+	},
+	{
+		"abr": "imperialescortship,toplarge",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkTopPointy"
+	},
+	{
+		"abr": "imperialescortship,topnarrowantennas",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkTopAntennasNarrow"
+	},
+	{
+		"abr": "imperialescortship,topwithantennas",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkTopAntennas"
+	},
+	{
+		"abr": "abominationogre",
+		"price": -10,
+		"category": "Animal",
+		"defname": "RatOgreAbom"
+	},
+	{
+		"abr": "abominationogre",
+		"price": -10,
+		"category": "Animal",
+		"defname": "RatOgreAbomAnimal"
+	},
+	{
+		"abr": "armguards",
+		"price": 293,
+		"category": "Armor",
+		"defname": "Apparel_DaemArmGuard"
+	},
+	{
+		"abr": "armouredcorset",
+		"price": 542,
+		"category": "Armor",
+		"defname": "Apparel_DaemArCorset"
+	},
+	{
+		"abr": "armouredstraps",
+		"price": 483,
+		"category": "Armor",
+		"defname": "Apparel_DaemStraps"
+	},
+	{
+		"abr": "baalrukh",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ZhthyhlBaalrukh"
+	},
+	{
+		"abr": "baalrukhhorn",
+		"price": 1000,
+		"category": "Items",
+		"defname": "BaalrukhHorn"
+	},
+	{
+		"abr": "beef",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_MutantCow"
+	},
+	{
+		"abr": "bestigoraxe",
+		"price": 575,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_BigAxe"
+	},
+	{
+		"abr": "bestigorhorn",
+		"price": 417,
+		"category": "Natural",
+		"defname": "BestigorHorn"
+	},
+	{
+		"abr": "boardbarricade",
+		"price": 22,
+		"category": "Security",
+		"defname": "SkavenBarricade"
+	},
+	{
+		"abr": "bogbroth",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "FimirBogBrew"
+	},
+	{
+		"abr": "boundrevenant",
+		"price": 517,
+		"category": "Security",
+		"defname": "Turret_DryadRevenant"
+	},
+	{
+		"abr": "brokenhorn",
+		"price": 67,
+		"category": "Natural",
+		"defname": "GorDamagedHorn"
+	},
+	{
+		"abr": "bullgor",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Bullgor"
+	},
+	{
+		"abr": "bullgorplate",
+		"price": 708,
+		"category": "Apparel",
+		"defname": "Apparel_BullgorPlate"
+	},
+	{
+		"abr": "butterfly",
+		"price": -10,
+		"category": "Animal",
+		"defname": "PoisonButterfly"
+	},
+	{
+		"abr": "butterflyegg(fert.)",
+		"price": -10,
+		"category": "Eggs (fert.)",
+		"defname": "EggButterflyFertilized"
+	},
+	{
+		"abr": "chaiselongue",
+		"price": 178,
+		"category": "Furniture",
+		"defname": "ChaiseLongue"
+	},
+	{
+		"abr": "chemicalbottle",
+		"price": 417,
+		"category": "Grenades",
+		"defname": "Weapon_SkavenPoisonBottle"
+	},
+	{
+		"abr": "chemicalmine",
+		"price": 199,
+		"category": "Security",
+		"defname": "Trap_SkavenPoisonMine"
+	},
+	{
+		"abr": "clothhood",
+		"price": 105,
+		"category": "Headgear",
+		"defname": "Apparel_SkavenClothHood"
+	},
+	{
+		"abr": "corpse-revenant",
+		"price": -10,
+		"category": "Animal",
+		"defname": "DryadDeadRevenant"
+	},
+	{
+		"abr": "corpse-revenant",
+		"price": -10,
+		"category": "Animal",
+		"defname": "DryadDeadRevenantFoe"
+	},
+	{
+		"abr": "corset",
+		"price": 263,
+		"category": "Armor",
+		"defname": "Apparel_DaemCorset"
+	},
+	{
+		"abr": "cow",
+		"price": -10,
+		"category": "Animal",
+		"defname": "MutantCow"
+	},
+	{
+		"abr": "crudeaxe",
+		"price": 285,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_CrudeAxe"
+	},
+	{
+		"abr": "crudechainhelmet",
+		"price": 450,
+		"category": "Headgear",
+		"defname": "Apparel_Chainhelm"
+	},
+	{
+		"abr": "crudechainmail",
+		"price": 583,
+		"category": "Apparel",
+		"defname": "Apparel_Chainmail"
+	},
+	{
+		"abr": "crudecudgel",
+		"price": 258,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_CrudeCudgel"
+	},
+	{
+		"abr": "crudepick",
+		"price": 298,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_CrudePick"
+	},
+	{
+		"abr": "crudesword",
+		"price": 285,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_CrudeSword"
+	},
+	{
+		"abr": "cultistdress",
+		"price": 298,
+		"category": "Apparel",
+		"defname": "Apparel_StrapDress"
+	},
+	{
+		"abr": "cultistrobe",
+		"price": 292,
+		"category": "Apparel",
+		"defname": "Apparel_SlaaneshiRobe"
+	},
+	{
+		"abr": "cygor",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ClovenCygor"
+	},
+	{
+		"abr": "daemonette",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Daemonette"
+	},
+	{
+		"abr": "daemonettebikini",
+		"price": 106,
+		"category": "Apparel",
+		"defname": "Apparel_DaemBikini"
+	},
+	{
+		"abr": "daemonettebladearm",
+		"price": 700,
+		"category": "Prosthetic",
+		"defname": "DaemonetteBladeArm"
+	},
+	{
+		"abr": "daemonetteclaw",
+		"price": 250,
+		"category": "Prosthetic",
+		"defname": "DaemonetteClaw"
+	},
+	{
+		"abr": "daemonetteclawarm",
+		"price": 467,
+		"category": "Prosthetic",
+		"defname": "DaemonetteClawArm"
+	},
+	{
+		"abr": "daemonettehide",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "Leather_Daemonette"
+	},
+	{
+		"abr": "daemonettemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Alien_Daemonette"
+	},
+	{
+		"abr": "daemonettesteelclaw",
+		"price": 250,
+		"category": "Prosthetic",
+		"defname": "DaemonetteSteelClaw"
+	},
+	{
+		"abr": "daemonicearring",
+		"price": 575,
+		"category": "Headgear",
+		"defname": "Apparel_DaemEarring"
+	},
+	{
+		"abr": "decorativebasin",
+		"price": 275,
+		"category": "Art",
+		"defname": "DryadBasin"
+	},
+	{
+		"abr": "decorativestand",
+		"price": 227,
+		"category": "Art",
+		"defname": "DryadOrbStand"
+	},
+	{
+		"abr": "decorativestool",
+		"price": 172,
+		"category": "Art",
+		"defname": "DryadStool"
+	},
+	{
+		"abr": "decorativetable",
+		"price": 275,
+		"category": "Art",
+		"defname": "DryadTable"
+	},
+	{
+		"abr": "deer",
+		"price": -10,
+		"category": "Animal",
+		"defname": "PoisonDeer"
+	},
+	{
+		"abr": "dirach",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Dirach"
+	},
+	{
+		"abr": "dryad",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Dryad"
+	},
+	{
+		"abr": "dryadarm",
+		"price": 240,
+		"category": "Prosthetic",
+		"defname": "DryadArm"
+	},
+	{
+		"abr": "dryadbody",
+		"price": 5000,
+		"category": "Artifacts",
+		"defname": "DryadBody"
+	},
+	{
+		"abr": "dryadhusk",
+		"price": 1708,
+		"category": "Artifacts",
+		"defname": "DryadHusk"
+	},
+	{
+		"abr": "dryadleg",
+		"price": 270,
+		"category": "Prosthetic",
+		"defname": "DryadLeg"
+	},
+	{
+		"abr": "dryadmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Alien_Dryad"
+	},
+	{
+		"abr": "dryadorgan",
+		"price": 1667,
+		"category": "Prosthetic",
+		"defname": "DryadOrgan"
+	},
+	{
+		"abr": "dryadseed",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "DryadMilkSeed"
+	},
+	{
+		"abr": "dryadicbody",
+		"price": 4667,
+		"category": "Artifacts",
+		"defname": "DryadicBody"
+	},
+	{
+		"abr": "dryadicear",
+		"price": 145,
+		"category": "Prosthetic",
+		"defname": "DryadicEar"
+	},
+	{
+		"abr": "dryadiceye",
+		"price": 252,
+		"category": "Prosthetic",
+		"defname": "DryadicEye"
+	},
+	{
+		"abr": "dryadicfoot",
+		"price": 174,
+		"category": "Prosthetic",
+		"defname": "DryadicFoot"
+	},
+	{
+		"abr": "dryadichand",
+		"price": 174,
+		"category": "Prosthetic",
+		"defname": "DryadicHand"
+	},
+	{
+		"abr": "dryadicheart",
+		"price": 287,
+		"category": "Prosthetic",
+		"defname": "DryadicHeart"
+	},
+	{
+		"abr": "dryadickidney",
+		"price": 287,
+		"category": "Prosthetic",
+		"defname": "DryadicKidney"
+	},
+	{
+		"abr": "dryadicliver",
+		"price": 287,
+		"category": "Prosthetic",
+		"defname": "DryadicLiver"
+	},
+	{
+		"abr": "dryadiclung",
+		"price": 287,
+		"category": "Prosthetic",
+		"defname": "DryadicLung"
+	},
+	{
+		"abr": "dryadicmask",
+		"price": 268,
+		"category": "Headgear",
+		"defname": "Apparel_DryadicMask"
+	},
+	{
+		"abr": "dryadicnose",
+		"price": 145,
+		"category": "Prosthetic",
+		"defname": "DryadicNose"
+	},
+	{
+		"abr": "dryadicorgan",
+		"price": 1108,
+		"category": "Prosthetic",
+		"defname": "DryadicOrgan"
+	},
+	{
+		"abr": "dryadicscythe",
+		"price": 1192,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_SylScythe"
+	},
+	{
+		"abr": "effigyofhealth",
+		"price": 2833,
+		"category": "Items",
+		"defname": "FimirEffigyHealer"
+	},
+	{
+		"abr": "fiend",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Fiend"
+	},
+	{
+		"abr": "fiend",
+		"price": -10,
+		"category": "Animal",
+		"defname": "FiendCovBase"
+	},
+	{
+		"abr": "fiendleather",
+		"price": 17,
+		"category": "Leathers",
+		"defname": "Leather_Fiend"
+	},
+	{
+		"abr": "fiendmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Fiend"
+	},
+	{
+		"abr": "fiendmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_FiendCovBase"
+	},
+	{
+		"abr": "fimiraxe",
+		"price": 542,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_FimirAxe"
+	},
+	{
+		"abr": "fimircauldron",
+		"price": 295,
+		"category": "Production",
+		"defname": "FimirBrewingCauldron"
+	},
+	{
+		"abr": "fimircloak",
+		"price": 280,
+		"category": "Apparel",
+		"defname": "FimirBasicCloak"
+	},
+	{
+		"abr": "fimirclub",
+		"price": 179,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_FimirClub"
+	},
+	{
+		"abr": "fimircripplingpotion",
+		"price": -10,
+		"category": "Drugs",
+		"defname": "FimirPotionCrippling"
+	},
+	{
+		"abr": "fimirgarment",
+		"price": 392,
+		"category": "Apparel",
+		"defname": "FimirBasicGarment"
+	},
+	{
+		"abr": "fimirheavyplate",
+		"price": 842,
+		"category": "Apparel",
+		"defname": "Apparel_FimirHeavyPlate"
+	},
+	{
+		"abr": "fimirhelmet",
+		"price": 186,
+		"category": "Headgear",
+		"defname": "Apparel_FimirLightHelmet"
+	},
+	{
+		"abr": "fimirlightplate",
+		"price": 433,
+		"category": "Apparel",
+		"defname": "Apparel_FimirLightPlate"
+	},
+	{
+		"abr": "fimirmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Alien_Fimm"
+	},
+	{
+		"abr": "fimirplate",
+		"price": 625,
+		"category": "Apparel",
+		"defname": "Apparel_FimirMediumPlate"
+	},
+	{
+		"abr": "fimirrestorativepotion",
+		"price": 833,
+		"category": "Drugs",
+		"defname": "FimirPotionRest"
+	},
+	{
+		"abr": "fimirrune",
+		"price": 867,
+		"category": "Production",
+		"defname": "FimirMearghResearchBench"
+	},
+	{
+		"abr": "fimirsalve",
+		"price": 83,
+		"category": "Medicine",
+		"defname": "FimirMedicineSalve"
+	},
+	{
+		"abr": "fimirsickle",
+		"price": 400,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_FimirSickle"
+	},
+	{
+		"abr": "fimirsledge",
+		"price": 642,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_FimirSledge"
+	},
+	{
+		"abr": "fimirstew",
+		"price": 20,
+		"category": "Meals",
+		"defname": "FimirStewSimple"
+	},
+	{
+		"abr": "fimirtotem",
+		"price": 717,
+		"category": "Security",
+		"defname": "Turret_FimirSmallTotem"
+	},
+	{
+		"abr": "fimm",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Fimm"
+	},
+	{
+		"abr": "flail",
+		"price": 298,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_SkavenFlail"
+	},
+	{
+		"abr": "furmantle",
+		"price": 254,
+		"category": "Apparel",
+		"defname": "Apparel_FurMantle"
+	},
+	{
+		"abr": "golddaemonettefigurine",
+		"price": 1017,
+		"category": "Art",
+		"defname": "SlaaDaemonetteFigurineGold"
+	},
+	{
+		"abr": "goldfiendfigurine",
+		"price": 3000,
+		"category": "Art",
+		"defname": "SlaaFiendFigurineGold"
+	},
+	{
+		"abr": "goldprincefigurine",
+		"price": 1067,
+		"category": "Art",
+		"defname": "SlaaPrinceFigurineGold"
+	},
+	{
+		"abr": "goldsteedfigurine",
+		"price": 2000,
+		"category": "Art",
+		"defname": "SlaaSteedFigurineGold"
+	},
+	{
+		"abr": "gor",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Gor"
+	},
+	{
+		"abr": "gorhide",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "Leather_Gor"
+	},
+	{
+		"abr": "gormeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Alien_Gor"
+	},
+	{
+		"abr": "gorebullhorn",
+		"price": 500,
+		"category": "Natural",
+		"defname": "GorebullHorn"
+	},
+	{
+		"abr": "harpy",
+		"price": -10,
+		"category": "Animal",
+		"defname": "BeastmenHarpy"
+	},
+	{
+		"abr": "hookedwhip",
+		"price": 298,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_HookedWhip"
+	},
+	{
+		"abr": "hornstub",
+		"price": 33,
+		"category": "Natural",
+		"defname": "GorStubHorn"
+	},
+	{
+		"abr": "hornedskaven",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_HornedSkaven"
+	},
+	{
+		"abr": "humanoiddaemonettearm",
+		"price": 367,
+		"category": "Prosthetic",
+		"defname": "ExtraArmDaemonette"
+	},
+	{
+		"abr": "imperialescortship,widebottom",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkBottomAlternate"
+	},
+	{
+		"abr": "imperialescortship,wingleft",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkWingLeft"
+	},
+	{
+		"abr": "imperialescortship,wingright",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkWingRight"
+	},
+	{
+		"abr": "jadedaemonettefigurine",
+		"price": 1025,
+		"category": "Art",
+		"defname": "SlaaDaemonetteFigurineJade"
+	},
+	{
+		"abr": "jadefiendfigurine",
+		"price": 3000,
+		"category": "Art",
+		"defname": "SlaaFiendFigurineJade"
+	},
+	{
+		"abr": "jadeprincefigurine",
+		"price": 1067,
+		"category": "Art",
+		"defname": "SlaaPrinceFigurineJade"
+	},
+	{
+		"abr": "jadesteedfigurine",
+		"price": 2000,
+		"category": "Art",
+		"defname": "SlaaSteedFigurineJade"
+	},
+	{
+		"abr": "largedryadicpillar",
+		"price": 517,
+		"category": "Art",
+		"defname": "DryadPillarLarge"
+	},
+	{
+		"abr": "largedryadicsculpture",
+		"price": 517,
+		"category": "Art",
+		"defname": "DryadSculptureLarge"
+	},
+	{
+		"abr": "largerunestone",
+		"price": 342,
+		"category": "Art",
+		"defname": "GorStoneM"
+	},
+	{
+		"abr": "largestatuedaemonette",
+		"price": 517,
+		"category": "Art",
+		"defname": "DaemonetteLargeStatue"
+	},
+	{
+		"abr": "legguards",
+		"price": 293,
+		"category": "Armor",
+		"defname": "Apparel_DaemLegGuard"
+	},
+	{
+		"abr": "lightmarinearmor",
+		"price": 2183,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_LightMarineArmor"
+	},
+	{
+		"abr": "lightmarinehelmet",
+		"price": 733,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_LightMarineHelmet"
+	},
+	{
+		"abr": "lightplate",
+		"price": 483,
+		"category": "Apparel",
+		"defname": "ZhthyhlMail"
+	},
+	{
+		"abr": "loincloth",
+		"price": 106,
+		"category": "Apparel",
+		"defname": "Apparel_Loincloth"
+	},
+	{
+		"abr": "massiveaxe",
+		"price": 367,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_MassiveAxe"
+	},
+	{
+		"abr": "massiveclub",
+		"price": 367,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_MassiveClub"
+	},
+	{
+		"abr": "massivedryadicstatue",
+		"price": 1125,
+		"category": "Art",
+		"defname": "DryadMassiveStatue"
+	},
+	{
+		"abr": "massivestatueofadaemonette",
+		"price": 1125,
+		"category": "Art",
+		"defname": "DaemonetteMassiveStatue"
+	},
+	{
+		"abr": "meargh",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Meargh"
+	},
+	{
+		"abr": "mearghskin",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "Leather_FimirMeargh"
+	},
+	{
+		"abr": "mechanoidship,bottom",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidShipBottom"
+	},
+	{
+		"abr": "mechanoidship,bottomalternate",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidShipBottomLong"
+	},
+	{
+		"abr": "mechanoidship,sideleft",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidSideLeft"
+	},
+	{
+		"abr": "mechanoidship,sideright",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidSideRight"
+	},
+	{
+		"abr": "mechanoidship,tankleft",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidTankLeft"
+	},
+	{
+		"abr": "mechanoidship,tankright",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidTankRight"
+	},
+	{
+		"abr": "mechanoidship,top",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidShipTop"
+	},
+	{
+		"abr": "mechanoidship,wingleft",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidWingLeft"
+	},
+	{
+		"abr": "mechanoidship,wingright",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidWingRight"
+	},
+	{
+		"abr": "mediumcapturedasteroid,bottom",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkBigBottom"
+	},
+	{
+		"abr": "mediumcapturedasteroid,left",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkBigSide"
+	},
+	{
+		"abr": "mediumcapturedasteroid,right",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkBigReactors"
+	},
+	{
+		"abr": "mediumcapturedasteroid,top",
+		"price": -10,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkBigTop"
+	},
+	{
+		"abr": "moulderbench",
+		"price": 450,
+		"category": "Production",
+		"defname": "SkavenMoulderBench"
+	},
+	{
+		"abr": "moulderskaven",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_SkavenMoulder"
+	},
+	{
+		"abr": "blueblade",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Blueblade"
+	},
+	{
+		"abr": "bluebladefilet",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Blueblade"
+	},
+	{
+		"abr": "forsakenanglerfish",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AB_ForsakenAnglerfish"
+	},
+	{
+		"abr": "forsakenanglerfishchunks",
+		"price": 3,
+		"category": "Meat",
+		"defname": "AB_ForsakenAnglerfishChunks"
+	},
+	{
+		"abr": "forsakenanglerfishmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AB_ForsakenAnglerfish"
+	},
+	{
+		"abr": "jellyfungus",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AB_Jellyfungus"
+	},
+	{
+		"abr": "jellyfungusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "AB_JellyfungusMeat"
+	},
+	{
+		"abr": "jellyfungusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AB_Jellyfungus"
+	},
+	{
+		"abr": "mashgon",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Mashgon"
+	},
+	{
+		"abr": "oakdryad",
+		"price": -10,
+		"category": "Animal",
+		"defname": "DryadOakAspect"
+	},
+	{
+		"abr": "ocularfish",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AB_OcularFish"
+	},
+	{
+		"abr": "ocularfishmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "AB_OcularFishMeat"
+	},
+	{
+		"abr": "ocularfishmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AB_OcularFish"
+	},
+	{
+		"abr": "oyster",
+		"price": 7,
+		"category": "Foods",
+		"defname": "Oyster"
+	},
+	{
+		"abr": "packarmour",
+		"price": 750,
+		"category": "Armor",
+		"defname": "Apparel_MoulderPadded"
+	},
+	{
+		"abr": "paddedarmour",
+		"price": 255,
+		"category": "Armor",
+		"defname": "Apparel_SkavenPadded"
+	},
+	{
+		"abr": "pearl",
+		"price": 417,
+		"category": "Items",
+		"defname": "Pearl"
+	},
+	{
+		"abr": "pillowpile",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "SlaaDoublePillowBed"
 	}
 	],
-	"total": 2224
+	"total": 2365
 }
