@@ -644,19 +644,19 @@
 	},
 	{
 		"abr": "fogman",
-		"price": -10,
+		"price": 2167,
 		"category": "Animal",
 		"defname": "Kenshi_Fogman_Worker"
 	},
 	{
 		"abr": "fogmanprince",
-		"price": -10,
+		"price": 2167,
 		"category": "Animal",
 		"defname": "Kenshi_Fogman_Prince"
 	},
 	{
 		"abr": "fogmansoldier",
-		"price": -10,
+		"price": 2167,
 		"category": "Animal",
 		"defname": "Kenshi_Fogman_Soldier"
 	},
@@ -776,19 +776,19 @@
 	},
 	{
 		"abr": "hiveprince",
-		"price": -10,
+		"price": 2167,
 		"category": "Animal",
 		"defname": "Kenshi_Hiver_Prince"
 	},
 	{
 		"abr": "hivesoldierdrone",
-		"price": -10,
+		"price": 2167,
 		"category": "Animal",
 		"defname": "Kenshi_Hiver_Soldier"
 	},
 	{
 		"abr": "hiveworkerdrone",
-		"price": -10,
+		"price": 2167,
 		"category": "Animal",
 		"defname": "Kenshi_Hiver_Worker"
 	},
@@ -1364,7 +1364,7 @@
 	},
 	{
 		"abr": "shek",
-		"price": -10,
+		"price": 2167,
 		"category": "Animal",
 		"defname": "Kenshi_Shek"
 	},
@@ -1400,19 +1400,19 @@
 	},
 	{
 		"abr": "southernhiveprince",
-		"price": -10,
+		"price": 2167,
 		"category": "Animal",
 		"defname": "Kenshi_Hiver_Prince_Southern"
 	},
 	{
 		"abr": "southernhivesoldierdrone",
-		"price": -10,
+		"price": 2167,
 		"category": "Animal",
 		"defname": "Kenshi_Hiver_Soldier_Southern"
 	},
 	{
 		"abr": "southernhiveworkerdrone",
-		"price": -10,
+		"price": 2167,
 		"category": "Animal",
 		"defname": "Kenshi_Hiver_Worker_Southern"
 	},
@@ -11402,7 +11402,7 @@
 	},
 	{
 		"abr": "harpy",
-		"price": -10,
+		"price": 2583,
 		"category": "Animal",
 		"defname": "Harpy"
 	},
@@ -11546,7 +11546,7 @@
 	},
 	{
 		"abr": "naga",
-		"price": -10,
+		"price": 3417,
 		"category": "Animal",
 		"defname": "Naga"
 	},
@@ -11768,7 +11768,7 @@
 	},
 	{
 		"abr": "bullgor",
-		"price": -10,
+		"price": 3333,
 		"category": "Animal",
 		"defname": "Alien_Bullgor"
 	},
@@ -11876,7 +11876,7 @@
 	},
 	{
 		"abr": "daemonette",
-		"price": -10,
+		"price": 3333,
 		"category": "Animal",
 		"defname": "Alien_Daemonette"
 	},
@@ -11954,13 +11954,13 @@
 	},
 	{
 		"abr": "dirach",
-		"price": -10,
+		"price": 3333,
 		"category": "Animal",
 		"defname": "Alien_Dirach"
 	},
 	{
 		"abr": "dryad",
-		"price": -10,
+		"price": 3333,
 		"category": "Animal",
 		"defname": "Alien_Dryad"
 	},
@@ -12230,7 +12230,7 @@
 	},
 	{
 		"abr": "fimm",
-		"price": -10,
+		"price": 3167,
 		"category": "Animal",
 		"defname": "Alien_Fimm"
 	},
@@ -12272,7 +12272,7 @@
 	},
 	{
 		"abr": "gor",
-		"price": -10,
+		"price": 3333,
 		"category": "Animal",
 		"defname": "Alien_Gor"
 	},
@@ -12314,7 +12314,7 @@
 	},
 	{
 		"abr": "hornedskaven",
-		"price": -10,
+		"price": 4167,
 		"category": "Animal",
 		"defname": "Alien_HornedSkaven"
 	},
@@ -12416,7 +12416,7 @@
 	},
 	{
 		"abr": "meargh",
-		"price": -10,
+		"price": 3333,
 		"category": "Animal",
 		"defname": "Alien_Meargh"
 	},
@@ -12434,7 +12434,7 @@
 	},
 	{
 		"abr": "moulderskaven",
-		"price": -10,
+		"price": 4167,
 		"category": "Animal",
 		"defname": "Alien_SkavenMoulder"
 	},
@@ -12499,5 +12499,5 @@
 		"defname": "Apparel_SlaaPlatePasties"
 	}
 	],
-	"total": 2280
+	"total": 2289
 }
