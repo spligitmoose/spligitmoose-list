@@ -2331,7 +2331,7 @@
 	{
 		"abr": "smokepopbelt",
 		"price": 777,
-		"category": "Apparel",
+		"category": "Utility",
 		"defname": "Apparel_SmokepopBelt"
 	},
 	{
@@ -2445,7 +2445,7 @@
 	{
 		"abr": "shieldbelt",
 		"price": 1150,
-		"category": "Armor",
+		"category": "Utility",
 		"defname": "Apparel_ShieldBelt"
 	},
 	{
@@ -7929,73 +7929,73 @@
 	{
 		"abr": "neurotrainer(animals)",
 		"price": 1750,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Animals"
 	},
 	{
 		"abr": "neurotrainer(artistic)",
 		"price": 1750,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Artistic"
 	},
 	{
 		"abr": "neurotrainer(construction)",
 		"price": 1750,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Construction"
 	},
 	{
 		"abr": "neurotrainer(cooking)",
 		"price": 1750,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Cooking"
 	},
 	{
 		"abr": "neurotrainer(crafting)",
 		"price": 1750,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Crafting"
 	},
 	{
 		"abr": "neurotrainer(intellectual)",
 		"price": 1750,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Intellectual"
 	},
 	{
 		"abr": "neurotrainer(medical)",
 		"price": 1750,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Medicine"
 	},
 	{
 		"abr": "neurotrainer(melee)",
 		"price": 1750,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Melee"
 	},
 	{
 		"abr": "neurotrainer(mining)",
 		"price": 1750,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Mining"
 	},
 	{
 		"abr": "neurotrainer(plants)",
 		"price": 1750,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Plants"
 	},
 	{
 		"abr": "neurotrainer(shooting)",
 		"price": 1750,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Shooting"
 	},
 	{
 		"abr": "neurotrainer(social)",
 		"price": 1750,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Social"
 	},
 	{
@@ -8733,13 +8733,13 @@
 	{
 		"abr": "orbitalbombardmenttargeter",
 		"price": 2000,
-		"category": "Ranged weapons",
+		"category": "Utility",
 		"defname": "OrbitalTargeterBombardment"
 	},
 	{
 		"abr": "orbitalpowerbeamtargeter",
 		"price": 2000,
-		"category": "Ranged weapons",
+		"category": "Utility",
 		"defname": "OrbitalTargeterPowerBeam"
 	},
 	{
@@ -10849,12 +10849,6 @@
 		"defname": "GeoMindImplant"
 	},
 	{
-		"abr": "giddyupmodule",
-		"price": 1125,
-		"category": "Manufactured",
-		"defname": "GU_Mech_GiddyUpModule"
-	},
-	{
 		"abr": "glitterworldmedkit",
 		"price": 2500,
 		"category": "Apparel",
@@ -11305,184 +11299,10 @@
 		"defname": "Android5Tier"
 	},
 	{
-		"abr": "abyssaleel",
-		"price": 3,
-		"category": "Alien raw fish",
-		"defname": "VCEF_AbyssalEel"
-	},
-	{
-		"abr": "alcyonitechunk",
-		"price": 8,
-		"category": "Raw resources",
-		"defname": "AB_AlcyoniteChunk"
-	},
-	{
-		"abr": "aliencompliancecenter",
-		"price": 167,
-		"category": "Special",
-		"defname": "AB_AlienComplianceCenter"
-	},
-	{
-		"abr": "asphaltbucket",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "AB_AsphaltBucket"
-	},
-	{
-		"abr": "bloodbouquet",
-		"price": 3,
-		"category": "Meat",
-		"defname": "AB_RawBloodBouquet"
-	},
-	{
-		"abr": "bloodleech",
-		"price": 2,
-		"category": "Alien raw fish",
-		"defname": "VCEF_BloodLeech"
-	},
-	{
-		"abr": "bluefungus",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "AB_BlueRawFungus"
-	},
-	{
-		"abr": "borealsardine",
-		"price": 2,
-		"category": "Alien raw fish",
-		"defname": "VCEF_BorealSardine"
-	},
-	{
-		"abr": "brownbarrelcactus",
-		"price": 1,
-		"category": "Vegetarian",
-		"defname": "AB_RawBrownBarrelCactus"
-	},
-	{
-		"abr": "bumbledronejelly",
-		"price": 1,
-		"category": "Vegetarian",
-		"defname": "AB_BumbledroneFood"
-	},
-	{
-		"abr": "cordaxresin",
-		"price": 17,
-		"category": "Raw resources",
-		"defname": "AB_CordaxResin"
-	},
-	{
-		"abr": "coresampledrill",
-		"price": 1842,
-		"category": "Production",
-		"defname": "AB_CoreSampleDrill"
-	},
-	{
-		"abr": "cragstoneblocks",
-		"price": 2,
-		"category": "Stone blocks",
-		"defname": "AB_BlocksCragstone"
-	},
-	{
-		"abr": "crystalhorn",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "AB_RawCrystalHorn"
-	},
-	{
-		"abr": "crystallinematrix",
-		"price": 17,
-		"category": "Raw resources",
-		"defname": "AB_CrystallineMatrix"
-	},
-	{
-		"abr": "crystallinewood",
-		"price": 1,
-		"category": "Raw resources",
-		"defname": "AB_CrystalWood"
-	},
-	{
-		"abr": "dribblingcappoisondart",
-		"price": 7,
-		"category": "Grenades",
-		"defname": "AB_WeaponPoisonDart"
-	},
-	{
-		"abr": "duskysprat",
-		"price": 2,
-		"category": "Alien raw fish",
-		"defname": "VCEF_DuskySprat"
-	},
-	{
-		"abr": "exoticsmelter(ocularforest)",
-		"price": 592,
-		"category": "Production",
-		"defname": "AB_ExoticSmelterOcular"
-	},
-	{
-		"abr": "exoticsmelter(propanelakes)",
-		"price": 525,
-		"category": "Production",
-		"defname": "AB_ExoticSmelterPropane"
-	},
-	{
-		"abr": "exoticsmelter(tarpits)",
-		"price": 1192,
-		"category": "Production",
-		"defname": "AB_ExoticSmelterTar"
-	},
-	{
-		"abr": "forsakenanglerfish",
-		"price": 2,
-		"category": "Alien raw fish",
-		"defname": "VCEF_ForsakenAnglerfish"
-	},
-	{
-		"abr": "frigidswimmer",
-		"price": 7,
-		"category": "Alien raw fish",
-		"defname": "VCEF_FrigidSwimmer"
-	},
-	{
-		"abr": "frostleaf",
-		"price": 1,
-		"category": "Raw resources",
-		"defname": "AB_RawFrostLeaf"
-	},
-	{
-		"abr": "giantpolarprawn",
-		"price": 3,
-		"category": "Alien raw fish",
-		"defname": "VCEF_GiantPolarPrawn"
-	},
-	{
-		"abr": "habdaklongfin",
-		"price": 17,
-		"category": "Alien raw fish",
-		"defname": "VCEF_HabdakLongfin"
-	},
-	{
 		"abr": "hullfoamcanister",
 		"price": 33,
 		"category": "Items",
 		"defname": "HullFoam"
-	},
-	{
-		"abr": "iashiphusfruit",
-		"price": 1,
-		"category": "Vegetarian",
-		"defname": "AB_RawIashiphus"
-	},
-	{
-		"abr": "iedtartrap",
-		"price": 267,
-		"category": "Security",
-		"defname": "AB_TrapIED_Tar"
-	},
-	{
-		"abr": "jellyfungus",
-		"price": 3,
-		"category": "Alien raw fish",
-		"defname": "VCEF_Jellyfungus"
 	},
 	{
 		"abr": "advancedlightningamplifier",
@@ -11725,30 +11545,6 @@
 		"defname": "DoorMatMediumTeal"
 	},
 	{
-		"abr": "mudsplashercarp",
-		"price": 3,
-		"category": "Alien raw fish",
-		"defname": "VCEF_MudSplasherCarp"
-	},
-	{
-		"abr": "mudstoneblocks",
-		"price": 1,
-		"category": "Stone blocks",
-		"defname": "AB_BlocksMudstone"
-	},
-	{
-		"abr": "mushroomstalks",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "AB_MushroomWoodLog"
-	},
-	{
-		"abr": "mutantflatfish",
-		"price": 2,
-		"category": "Alien raw fish",
-		"defname": "VCEF_MutantFlatfish"
-	},
-	{
 		"abr": "naga",
 		"price": -10,
 		"category": "Animal",
@@ -11771,36 +11567,6 @@
 		"price": 492,
 		"category": "Apparel",
 		"defname": "Apparel_NagaShieldBelt"
-	},
-	{
-		"abr": "obsidianblocks",
-		"price": 2,
-		"category": "Stone blocks",
-		"defname": "AB_BlocksObsidian"
-	},
-	{
-		"abr": "ocularfish",
-		"price": 4,
-		"category": "Alien raw fish",
-		"defname": "VCEF_OcularFish"
-	},
-	{
-		"abr": "oculargasspewer",
-		"price": 304,
-		"category": "Misc",
-		"defname": "AB_OcularGasSpewer"
-	},
-	{
-		"abr": "pinkblobfish",
-		"price": 1,
-		"category": "Alien raw fish",
-		"defname": "VCEF_PinkBlobfish"
-	},
-	{
-		"abr": "pinkfungus",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "AB_PinkRawFungus"
 	},
 	{
 		"abr": "plasmajavelin",
@@ -11833,24 +11599,6 @@
 		"defname": "Gun_NagaSMG"
 	},
 	{
-		"abr": "processedresin",
-		"price": 75,
-		"category": "Raw resources",
-		"defname": "AB_ProcessedResin"
-	},
-	{
-		"abr": "propanebag",
-		"price": 0,
-		"category": "Alien raw fish",
-		"defname": "VCEF_PropaneBag"
-	},
-	{
-		"abr": "propanefueltank",
-		"price": 4,
-		"category": "Manufactured",
-		"defname": "AB_Propane"
-	},
-	{
 		"abr": "birthcontrol",
 		"price": 17,
 		"category": "Drugs",
@@ -11875,58 +11623,16 @@
 		"defname": "PregnancyTest"
 	},
 	{
-		"abr": "propaneheater",
-		"price": 188,
-		"category": "Temperature",
-		"defname": "AB_PropaneHeater"
-	},
-	{
-		"abr": "propanestove",
-		"price": 252,
-		"category": "Production",
-		"defname": "AB_PropaneStove"
-	},
-	{
 		"abr": "prostheticharpywing",
 		"price": 358,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticWingHarpy"
 	},
 	{
-		"abr": "psychotropicfungus",
-		"price": 3,
-		"category": "Drugs",
-		"defname": "AB_PsychotropicFungus"
-	},
-	{
-		"abr": "purplefungus",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "AB_PurpleRawFungus"
-	},
-	{
-		"abr": "rawrimenodules",
-		"price": 2,
-		"category": "Drugs",
-		"defname": "AB_RawRimeNodules"
-	},
-	{
-		"abr": "rosequartzblocks",
-		"price": 2,
-		"category": "Stone blocks",
-		"defname": "GU_BlocksRoseQuartz"
-	},
-	{
 		"abr": "schooltable",
 		"price": 281,
 		"category": "Production",
 		"defname": "SchoolTable"
-	},
-	{
-		"abr": "shadowfry",
-		"price": 2,
-		"category": "Alien raw fish",
-		"defname": "VCEF_ShadowFry"
 	},
 	{
 		"abr": "shieldemitterbelt",
@@ -11941,48 +11647,6 @@
 		"defname": "MealSimple_Naga"
 	},
 	{
-		"abr": "slime",
-		"price": 1,
-		"category": "Vegetarian",
-		"defname": "AB_RawSlime"
-	},
-	{
-		"abr": "slimemeal",
-		"price": 17,
-		"category": "Meals",
-		"defname": "AB_SlimeMeal"
-	},
-	{
-		"abr": "slimefish",
-		"price": 25,
-		"category": "Alien raw fish",
-		"defname": "VCEF_Slimefish"
-	},
-	{
-		"abr": "spiderfish",
-		"price": 4,
-		"category": "Alien raw fish",
-		"defname": "VCEF_Spiderfish"
-	},
-	{
-		"abr": "spinyfish",
-		"price": 7,
-		"category": "Alien raw fish",
-		"defname": "VCEF_Spinyfish"
-	},
-	{
-		"abr": "sturgeon",
-		"price": 7,
-		"category": "Alien raw fish",
-		"defname": "VCEF_Sturgeon"
-	},
-	{
-		"abr": "sugarfamewort",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "AB_RawSugarFamewort"
-	},
-	{
 		"abr": "tabard",
 		"price": 211,
 		"category": "Apparel",
@@ -11993,18 +11657,6 @@
 		"price": 13,
 		"category": "Leathers",
 		"defname": "Tainted_Skin"
-	},
-	{
-		"abr": "tarshell",
-		"price": 92,
-		"category": "Mortar shells",
-		"defname": "AB_Shell_Tar"
-	},
-	{
-		"abr": "tentacularfruit",
-		"price": 1,
-		"category": "Vegetarian",
-		"defname": "AB_RawTentacularFruit"
 	},
 	{
 		"abr": "throwlightning(0)",
@@ -12035,174 +11687,6 @@
 		"price": 1833,
 		"category": "Ranged weapons",
 		"defname": "Harpy_LightningWeaponFour"
-	},
-	{
-		"abr": "bioship,bottom",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_PurpleShipChunkBottom"
-	},
-	{
-		"abr": "bioship,bottomalternate",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_PurpleShipChunkBottomPointy"
-	},
-	{
-		"abr": "bioship,sideleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_PurpleShipChunkSideLeft"
-	},
-	{
-		"abr": "bioship,sideright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_PurpleShipChunkSideRight"
-	},
-	{
-		"abr": "bioship,top",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_PurpleShipChunkTop"
-	},
-	{
-		"abr": "bioship,topleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_PurpleShipChunkTopLeft"
-	},
-	{
-		"abr": "bioship,topright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_PurpleShipChunkTopRight"
-	},
-	{
-		"abr": "bioship,wingleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_PurpleShipChunkWingLeft"
-	},
-	{
-		"abr": "bioship,wingright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_PurpleShipChunkWingRight"
-	},
-	{
-		"abr": "hugecapturedasteroid,bottom",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_HugeAsteroidBottom"
-	},
-	{
-		"abr": "hugecapturedasteroid,left",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_HugeAsteroidLeft"
-	},
-	{
-		"abr": "hugecapturedasteroid,right",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_HugeAsteroidRight"
-	},
-	{
-		"abr": "hugecapturedasteroid,top",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_HugeAsteroidTop"
-	},
-	{
-		"abr": "imperialescortship,bottom",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkBottom"
-	},
-	{
-		"abr": "imperialescortship,leftside",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkSideLeft"
-	},
-	{
-		"abr": "imperialescortship,rightside",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkSideRight"
-	},
-	{
-		"abr": "imperialescortship,roundcore",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkRound"
-	},
-	{
-		"abr": "imperialescortship,roundsideleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkRoundSideLeft"
-	},
-	{
-		"abr": "imperialescortship,roundsideright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkRoundSideRight"
-	},
-	{
-		"abr": "imperialescortship,smallleftside",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkSmallSideLeft"
-	},
-	{
-		"abr": "imperialescortship,smallrightside",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkSmallSideRight"
-	},
-	{
-		"abr": "imperialescortship,smallwingleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkSmallWingLeft"
-	},
-	{
-		"abr": "imperialescortship,smallwingright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkSmallWingRight"
-	},
-	{
-		"abr": "imperialescortship,top",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkTop"
-	},
-	{
-		"abr": "imperialescortship,topalternate",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkTopAlternate"
-	},
-	{
-		"abr": "imperialescortship,toplarge",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkTopPointy"
-	},
-	{
-		"abr": "imperialescortship,topnarrowantennas",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkTopAntennasNarrow"
-	},
-	{
-		"abr": "imperialescortship,topwithantennas",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkTopAntennas"
 	},
 	{
 		"abr": "abominationogre",
@@ -12245,12 +11729,6 @@
 		"price": 1000,
 		"category": "Items",
 		"defname": "BaalrukhHorn"
-	},
-	{
-		"abr": "beef",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_MutantCow"
 	},
 	{
 		"abr": "bestigoraxe",
@@ -12301,18 +11779,6 @@
 		"defname": "Apparel_BullgorPlate"
 	},
 	{
-		"abr": "butterfly",
-		"price": -10,
-		"category": "Animal",
-		"defname": "PoisonButterfly"
-	},
-	{
-		"abr": "butterflyegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggButterflyFertilized"
-	},
-	{
 		"abr": "chaiselongue",
 		"price": 178,
 		"category": "Furniture",
@@ -12353,12 +11819,6 @@
 		"price": 263,
 		"category": "Armor",
 		"defname": "Apparel_DaemCorset"
-	},
-	{
-		"abr": "cow",
-		"price": -10,
-		"category": "Animal",
-		"defname": "MutantCow"
 	},
 	{
 		"abr": "crudeaxe",
@@ -12491,12 +11951,6 @@
 		"price": 275,
 		"category": "Art",
 		"defname": "DryadTable"
-	},
-	{
-		"abr": "deer",
-		"price": -10,
-		"category": "Animal",
-		"defname": "PoisonDeer"
 	},
 	{
 		"abr": "dirach",
@@ -12871,24 +12325,6 @@
 		"defname": "ExtraArmDaemonette"
 	},
 	{
-		"abr": "imperialescortship,widebottom",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkBottomAlternate"
-	},
-	{
-		"abr": "imperialescortship,wingleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkWingLeft"
-	},
-	{
-		"abr": "imperialescortship,wingright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_BlueShipChunkWingRight"
-	},
-	{
 		"abr": "jadedaemonettefigurine",
 		"price": 1025,
 		"category": "Art",
@@ -12943,18 +12379,6 @@
 		"defname": "Apparel_DaemLegGuard"
 	},
 	{
-		"abr": "lightmarinearmor",
-		"price": 2183,
-		"category": "Apparel",
-		"defname": "VAE_Apparel_LightMarineArmor"
-	},
-	{
-		"abr": "lightmarinehelmet",
-		"price": 733,
-		"category": "Headgear",
-		"defname": "VAE_Headgear_LightMarineHelmet"
-	},
-	{
 		"abr": "lightplate",
 		"price": 483,
 		"category": "Apparel",
@@ -13003,84 +12427,6 @@
 		"defname": "Leather_FimirMeargh"
 	},
 	{
-		"abr": "mechanoidship,bottom",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_MechanoidShipBottom"
-	},
-	{
-		"abr": "mechanoidship,bottomalternate",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_MechanoidShipBottomLong"
-	},
-	{
-		"abr": "mechanoidship,sideleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_MechanoidSideLeft"
-	},
-	{
-		"abr": "mechanoidship,sideright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_MechanoidSideRight"
-	},
-	{
-		"abr": "mechanoidship,tankleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_MechanoidTankLeft"
-	},
-	{
-		"abr": "mechanoidship,tankright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_MechanoidTankRight"
-	},
-	{
-		"abr": "mechanoidship,top",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_MechanoidShipTop"
-	},
-	{
-		"abr": "mechanoidship,wingleft",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_MechanoidWingLeft"
-	},
-	{
-		"abr": "mechanoidship,wingright",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_MechanoidWingRight"
-	},
-	{
-		"abr": "mediumcapturedasteroid,bottom",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_AsteroidChunkBigBottom"
-	},
-	{
-		"abr": "mediumcapturedasteroid,left",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_AsteroidChunkBigSide"
-	},
-	{
-		"abr": "mediumcapturedasteroid,right",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_AsteroidChunkBigReactors"
-	},
-	{
-		"abr": "mediumcapturedasteroid,top",
-		"price": -10,
-		"category": "Ship parts",
-		"defname": "AS_AsteroidChunkBigTop"
-	},
-	{
 		"abr": "moulderbench",
 		"price": 450,
 		"category": "Production",
@@ -13105,42 +12451,6 @@
 		"defname": "Meat_Blueblade"
 	},
 	{
-		"abr": "forsakenanglerfish",
-		"price": -10,
-		"category": "Animal",
-		"defname": "AB_ForsakenAnglerfish"
-	},
-	{
-		"abr": "forsakenanglerfishchunks",
-		"price": 3,
-		"category": "Meat",
-		"defname": "AB_ForsakenAnglerfishChunks"
-	},
-	{
-		"abr": "forsakenanglerfishmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AB_ForsakenAnglerfish"
-	},
-	{
-		"abr": "jellyfungus",
-		"price": -10,
-		"category": "Animal",
-		"defname": "AB_Jellyfungus"
-	},
-	{
-		"abr": "jellyfungusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "AB_JellyfungusMeat"
-	},
-	{
-		"abr": "jellyfungusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AB_Jellyfungus"
-	},
-	{
 		"abr": "mashgon",
 		"price": -10,
 		"category": "Animal",
@@ -13151,24 +12461,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "DryadOakAspect"
-	},
-	{
-		"abr": "ocularfish",
-		"price": -10,
-		"category": "Animal",
-		"defname": "AB_OcularFish"
-	},
-	{
-		"abr": "ocularfishmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "AB_OcularFishMeat"
-	},
-	{
-		"abr": "ocularfishmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AB_OcularFish"
 	},
 	{
 		"abr": "oyster",
@@ -13199,7 +12491,13 @@
 		"price": 342,
 		"category": "Furniture",
 		"defname": "SlaaDoublePillowBed"
+	},
+	{
+		"abr": "platepasties",
+		"price": 367,
+		"category": "Armor",
+		"defname": "Apparel_SlaaPlatePasties"
 	}
 	],
-	"total": 2365
+	"total": 2280
 }
